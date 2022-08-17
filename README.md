@@ -19,7 +19,7 @@ A collection for Nerual Network Models for potential building
 [Completing density functional theory by machine-learning hidden messages from molecules](https://github.com/ml-electron-project/NNfunctional)
 
 
-# Molecular Filed
+# Molecular Field
 
 - [DeePMD](https://github.com/deepmodeling/deepmd-kit)
 - [ANI-series](https://github.com/aiqm/torchani)
@@ -38,5 +38,7 @@ A collection for Nerual Network Models for potential building
 - AIQM1
 [Artificial intelligence-enhanced quantum chemical method with broad applicability](https://www.nature.com/articles/s41467-021-27340-2)
 
+# Coarse-Grained 
 
+# Enhanaced Sampling
 
