@@ -33,6 +33,7 @@ A collection for Nerual Network Models for potential building
 - [TorchMD-Net](https://github.com/torchmd/torchmd-net)
 - [AQML](https://github.com/binghuang2018/aqml)
 - [TensorMol](https://github.com/jparkhill/TensorMol)
+- [SpookyNet](https://github.com/OUnke/SpookyNet)
 
 # Semi-Empirical Method
 
