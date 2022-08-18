@@ -30,6 +30,7 @@ A collection for Nerual Network Models for potential building
 - [DimeNet](https://github.com/gasteigerjo/dimenet)
 - [DeePMoleNet](https://github.com/Frank-LIU-520/DeepMoleNet)
 - [AirNet](https://github.com/helloyesterday/AirNet)
+- [TorchMD-Net](https://github.com/torchmd/torchmd-net)
 
 # Semi-Empirical Method
 
