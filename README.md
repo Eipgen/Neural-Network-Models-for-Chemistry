@@ -31,6 +31,8 @@ A collection for Nerual Network Models for potential building
 - [DeePMoleNet](https://github.com/Frank-LIU-520/DeepMoleNet)
 - [AirNet](https://github.com/helloyesterday/AirNet)
 - [TorchMD-Net](https://github.com/torchmd/torchmd-net)
+- [AQML](https://github.com/binghuang2018/aqml)
+- [TensorMol](https://github.com/jparkhill/TensorMol)
 
 # Semi-Empirical Method
 
