@@ -34,6 +34,7 @@ A collection for Nerual Network Models for potential building
 - [AQML](https://github.com/binghuang2018/aqml)
 - [TensorMol](https://github.com/jparkhill/TensorMol)
 - [SpookyNet](https://github.com/OUnke/SpookyNet)
+- [RuNNer](https://www.uni-goettingen.de/de/software/616512.html)
 
 # Semi-Empirical Method
 
