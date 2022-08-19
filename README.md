@@ -43,7 +43,7 @@ A collection of Nerual Network Models for potential building
 
 - AIQM1
 [Artificial intelligence-enhanced quantum chemical method with broad applicability](https://www.nature.com/articles/s41467-021-27340-2)
-- BpopNN[Incorporating Electronic Information into Machine Learning Potential Energy Surfaces via Approaching the Ground-State Electronic Energy as a Function of Atom-Based Electronic Populations]
+- BpopNN(https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.0c00217)
 # Coarse-Grained 
 
 # Enhanaced Sampling
