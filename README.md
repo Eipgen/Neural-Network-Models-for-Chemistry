@@ -35,7 +35,7 @@ A collection of Nerual Network Models for potential building
 - [TensorMol](https://github.com/jparkhill/TensorMol)
 - [SpookyNet](https://github.com/OUnke/SpookyNet)
 - [RuNNer](https://www.uni-goettingen.de/de/software/616512.html)
-
+- [aenet](https://github.com/atomisticnet/aenet)
 # Semi-Empirical Method
 
 - OrbNet
