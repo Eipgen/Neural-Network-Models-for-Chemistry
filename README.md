@@ -36,6 +36,10 @@ A collection of Nerual Network Models for potential building
 - [SpookyNet](https://github.com/OUnke/SpookyNet)
 - [RuNNer](https://www.uni-goettingen.de/de/software/616512.html)
 - [aenet](https://github.com/atomisticnet/aenet)
+- [sGDML](http://www.sgdml.org/)
+- [GAP](https://github.com/libAtoms/GAP)
+- [QUIP](https://github.com/libAtoms/QUIP)
+
 # Semi-Empirical Method
 
 - OrbNet
