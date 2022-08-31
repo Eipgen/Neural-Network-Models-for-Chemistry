@@ -71,7 +71,8 @@ A collection of Nerual Network Models for potential building
 - BpopNN 
 <br>[Incorporating Electronic Information into Machine Learning Potential Energy Surfaces via Approaching the Ground-State Electronic Energy as a Function of Atom-Based Electronic Populations](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.0c00217)
 # Coarse-Grained 
-[cgnet](https://github.com/coarse-graining/cgnet)
+- cgnet
+(https://github.com/coarse-graining/cgnet)
 <br>Coarse graining for molecular dymamics
 # Enhanaced Sampling
 - VES-NN
