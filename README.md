@@ -25,6 +25,8 @@ A collection of Nerual Network Models for potential building
 <br>A package designed to minimize the effort required to build deep learning based model of interatomic potential energy and force field and to perform molecular dynamics (MD)
 - [Torch-ANI](https://github.com/aiqm/torchani)
 <br>TorchANI is a pytorch implementation of ANI
+- [NerualForceFild](https://github.com/learningmatter-mit/NeuralForceField)
+<br>The Neural Force Field (NFF) code is an API based on SchNet, DimeNet, PaiNN and DANN . It provides an interface to train and evaluate neural networks for force fields. It can also be used as a property predictor that uses both 3D geometries and 2D graph information
 - [Neupiq](https://github.com/mir-group/nequip)
 <br>NequIP is an open-source code for building E(3)-equivariant interatomic potentials.
 - [SchNet](https://github.com/atomistic-machine-learning/SchNet)
