@@ -81,3 +81,5 @@ A collection of Nerual Network Models for potential building
 # Enhanaced Sampling
 - VES-NN
 <br>[Neural networks-based variationallyenhanced sampling](https://www.pnas.org/doi/epdf/10.1073/pnas.1907975116)
+
+# QM/MM 
