@@ -63,6 +63,8 @@ A collection of Nerual Network Models for potential building
 <br>This package is part of QUantum mechanics and Interatomic Potentials
 - [QUIP](https://github.com/libAtoms/QUIP)
 <br>The QUIP package is a collection of software tools to carry out molecular dynamics simulations. It implements a variety of interatomic potentials and tight binding quantum mechanics, and is also able to call external packages, and serve as plugins to other software such as LAMMPS, CP2K and also the python framework ASE.
+- [NNP-MM](https://github.com/RowleyGroup/NNP-MM)
+<br>NNP/MM embeds a Neural Network Potential into a conventional molecular mechanical (MM) model
 # Semi-Empirical Method
 
 - OrbNet
