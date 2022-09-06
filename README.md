@@ -17,7 +17,14 @@ A collection of Nerual Network Models for potential building
 <br>[Pushing the Frontiers of Density Functionals by Solving the Fractional Electron Problem](https://github.com/deepmind/deepmind-research/tree/master/density_functional_approximation_dm21)
 - NN-GGA,NN-NRA,NN-meta-GGA,NN-LSDA
 <br>[Completing density functional theory by machine-learning hidden messages from molecules](https://github.com/ml-electron-project/NNfunctional)
-
+- FemiNet(https://github.com/deepmind/ferminet)
+<br>FermiNet is a neural network for learning highly accurate ground state wavefunctions of atoms and molecules using a variational Monte Carlo approach.
+- deepqmc(https://github.com/deepqmc/deepqmc)
+<br>DeepQMC implements variational quantum Monte Carlo for electrons in molecules, using deep neural networks written in PyTorch as trial wave functions. Besides the core functionality, it contains implementations of the following ansatzes:
+- PauliNet(https://www.nature.com/articles/s41557-020-0544-y#Bib1)
+<br>PauliNet builds upon HF or CASSCF orbitals as a physically meaningful baseline and takes a neural network approach to the SJB wavefunction in order tocorrect this baseline towards a high-accuracy solution
+- DeePErwin(https://github.com/mdsunivie/deeperwin)
+<br>DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equatio
 
 # Molecular Field
 
