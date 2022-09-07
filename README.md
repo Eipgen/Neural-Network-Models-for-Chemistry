@@ -61,7 +61,7 @@ A collection of Nerual Network Models for potential building
 - [SpookyNet](https://github.com/OUnke/SpookyNet)
 <br>Spookynet: Learning force fields with electronic degrees of freedom and nonlocal effects
 - [RuNNer](https://www.uni-goettingen.de/de/software/616512.html)
-<br>a program package for constructing high-dimensional neural network potentials
+<br>a program package for constructing high-dimensional neural network potentials,4G-HDNNPs,3G-HDNNPs
 - [aenet](https://github.com/atomisticnet/aenet)
 <br>The Atomic Energy NETwork (ænet) package is a collection of tools for the construction and application of atomic interaction potentials based on artificial neural networks
 - [sGDML](http://www.sgdml.org/)
