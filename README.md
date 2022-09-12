@@ -72,7 +72,7 @@ A collection of Nerual Network Models for potential building
 <br>The QUIP package is a collection of software tools to carry out molecular dynamics simulations. It implements a variety of interatomic potentials and tight binding quantum mechanics, and is also able to call external packages, and serve as plugins to other software such as LAMMPS, CP2K and also the python framework ASE.
 - [NNP-MM](https://github.com/RowleyGroup/NNP-MM)
 <br>NNP/MM embeds a Neural Network Potential into a conventional molecular mechanical (MM) model
--[GAMD](https://github.com/BaratiLab/GAMD)
+- [GAMD](https://github.com/BaratiLab/GAMD)
 <br>Data and code for Graph neural network Accelerated Molecular Dynamics
 
 # Semi-Empirical Method
