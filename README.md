@@ -1,6 +1,5 @@
 # Neural-Network-Models-for-chemistry
 A collection of Nerual Network Models for potential building
-# Neural Model for Chemistry
 
 # Functional
 
