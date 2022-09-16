@@ -75,6 +75,9 @@ A collection of Nerual Network Models for potential building
 <br>NNP/MM embeds a Neural Network Potential into a conventional molecular mechanical (MM) model
 - [GAMD](https://github.com/BaratiLab/GAMD)
 <br>Data and code for Graph neural network Accelerated Molecular Dynamics
+- [PFP](https://matlantis.com/)
+Here we report a development of universal NNP called PreFerred Potential (PFP), which is able to handle any combination of 45 elements.
+Particular emphasis is placed on the datasets, which include a diverse set of virtual structures used to attain the universality.
 
 # Semi-Empirical Method
 
