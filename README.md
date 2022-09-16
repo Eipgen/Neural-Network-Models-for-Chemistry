@@ -76,9 +76,10 @@ A collection of Nerual Network Models for potential building
 - [GAMD](https://github.com/BaratiLab/GAMD)
 <br>Data and code for Graph neural network Accelerated Molecular Dynamics
 - [PFP](https://matlantis.com/)
-Here we report a development of universal NNP called PreFerred Potential (PFP), which is able to handle any combination of 45 elements.
+<br>Here we report a development of universal NNP called PreFerred Potential (PFP), which is able to handle any combination of 45 elements.
 Particular emphasis is placed on the datasets, which include a diverse set of virtual structures used to attain the universality.
-
+- [TeaNet](https://codeocean.com/capsule/4358608/tree)
+universal neural network interatomic potential inspired by iterative electronic relaxations
 # Semi-Empirical Method
 
 - OrbNet
