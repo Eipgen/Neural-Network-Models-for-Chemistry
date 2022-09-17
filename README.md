@@ -97,4 +97,8 @@ universal neural network interatomic potential inspired by iterative electronic 
 - VES-NN
 <br>[Neural networks-based variationallyenhanced sampling](https://www.pnas.org/doi/epdf/10.1073/pnas.1907975116)
 
-# QM/MM 
+# QM/MM
+- NNP-MM(https://github.com/RowleyGroup/NNP-MM)
+<br>NNP/MM embeds a Neural Network Potential into a conventional molecular mechanical (MM) model. We have implemented this using the Custom QM/MM features of NAMD 2.13, which interface NAMD with the TorchANI NNP python library developed by the Roitberg and Isayev groups.
+- DeeP-HP(https://github.com/TinkerTools/tinker-hp/tree/Deep-HP)
+<br>support for neural networks potentials (ANI-2X, DeepMD)
