@@ -79,7 +79,9 @@ A collection of Nerual Network Models for potential building
 <br>Here we report a development of universal NNP called PreFerred Potential (PFP), which is able to handle any combination of 45 elements.
 Particular emphasis is placed on the datasets, which include a diverse set of virtual structures used to attain the universality.
 - [TeaNet](https://codeocean.com/capsule/4358608/tree)
-universal neural network interatomic potential inspired by iterative electronic relaxations
+<br>universal neural network interatomic potential inspired by iterative electronic relaxations
+- [n2p2](https://github.com/CompPhysVienna/n2p2)
+<br>This repository provides ready-to-use software for high-dimensional neural network potentials in computational physics and chemistry.
 # Semi-Empirical Method
 
 - OrbNet
