@@ -25,6 +25,7 @@ A collection of Nerual Network Models for potential building
 - DeePErwin(https://github.com/mdsunivie/deeperwin)
 <br>DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equatio
 
+
 # Molecular Field
 
 - [DeePMD](https://github.com/deepmodeling/deepmd-kit) 
@@ -82,6 +83,9 @@ Particular emphasis is placed on the datasets, which include a diverse set of vi
 <br>universal neural network interatomic potential inspired by iterative electronic relaxations
 - [n2p2](https://github.com/CompPhysVienna/n2p2)
 <br>This repository provides ready-to-use software for high-dimensional neural network potentials in computational physics and chemistry.
+
+- [aimnet](https://github.com/aiqm/aimnet)
+This repository contains reference AIMNet implementation along with some examples and menchmarks
 # Semi-Empirical Method
 
 - OrbNet
@@ -91,6 +95,9 @@ Particular emphasis is placed on the datasets, which include a diverse set of vi
 <br>[Artificial intelligence-enhanced quantum chemical method with broad applicability](https://www.nature.com/articles/s41467-021-27340-2)
 - BpopNN 
 <br>[Incorporating Electronic Information into Machine Learning Potential Energy Surfaces via Approaching the Ground-State Electronic Energy as a Function of Atom-Based Electronic Populations](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.0c00217)
+
+- Delfta(https://github.com/josejimenezluna/delfta)
+<br>The DelFTa application is an easy-to-use, open-source toolbox for predicting quantum-mechanical properties of drug-like molecules. Using either ∆-learning (with a GFN2-xTB baseline) or direct-learning (without a baseline), the application accurately approximates DFT reference values (ωB97X-D/def2-SVP). 
 # Coarse-Grained 
 - cgnet
 (https://github.com/coarse-graining/cgnet)
