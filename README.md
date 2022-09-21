@@ -106,6 +106,9 @@ This repository contains reference AIMNet implementation along with some example
 - VES-NN
 <br>[Neural networks-based variationallyenhanced sampling](https://www.pnas.org/doi/epdf/10.1073/pnas.1907975116)
 
+- Accelerated_sampling_with_autoencoder
+<br>[Accelerated sampling framework with autoencoder-based method](https://github.com/weiHelloWorld/accelerated_sampling_with_autoencoder)
+
 # QM/MM
 - NNP-MM(https://github.com/RowleyGroup/NNP-MM)
 <br>NNP/MM embeds a Neural Network Potential into a conventional molecular mechanical (MM) model. We have implemented this using the Custom QM/MM features of NAMD 2.13, which interface NAMD with the TorchANI NNP python library developed by the Roitberg and Isayev groups.
