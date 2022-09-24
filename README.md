@@ -87,6 +87,8 @@ Particular emphasis is placed on the datasets, which include a diverse set of vi
 - [aimnet](https://github.com/aiqm/aimnet)
 This repository contains reference AIMNet implementation along with some examples and menchmarks
 # Semi-Empirical Method
+- [AMP,AMPTorch](https://amp.readthedocs.io/en/latest/)
+Amp: A modular approach to machine learning in atomistic simulations(https://github.com/ulissigroup/amptorch)
 
 - OrbNet
 <br>[OrbNet Denali: A machine learning potential for biological and organic chemistry with semi-empirical cost and DFT accuracy](https://arxiv.org/abs/2107.00299)
