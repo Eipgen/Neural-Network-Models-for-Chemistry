@@ -88,9 +88,12 @@ Particular emphasis is placed on the datasets, which include a diverse set of vi
 This repository contains reference AIMNet implementation along with some examples and menchmarks
 - [charge_transfer_nnp](https://github.com/pfnet-research/charge_transfer_nnp)
 About Graph neural network potential with charge transfer
-# Semi-Empirical Method
 - [AMP,AMPTorch](https://amp.readthedocs.io/en/latest/)
 Amp: A modular approach to machine learning in atomistic simulations(https://github.com/ulissigroup/amptorch)
+- [SCFNN](https://github.com/andy90/SCFNN)
+self consistent field neural network (SCFNN) model.
+# Semi-Empirical Method
+
 
 - OrbNet
 <br>[OrbNet Denali: A machine learning potential for biological and organic chemistry with semi-empirical cost and DFT accuracy](https://arxiv.org/abs/2107.00299)
