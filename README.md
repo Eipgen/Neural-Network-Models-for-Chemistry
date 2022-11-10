@@ -109,6 +109,7 @@ self consistent field neural network (SCFNN) model.
 - cgnet
 (https://github.com/coarse-graining/cgnet)
 <br>Coarse graining for molecular dymamics
+- a review form arxiv(https://arxiv.org/ftp/arxiv/papers/2209/2209.12948.pdf)
 # Enhanaced Sampling
 - VES-NN
 <br>[Neural networks-based variationallyenhanced sampling](https://www.pnas.org/doi/epdf/10.1073/pnas.1907975116)
