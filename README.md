@@ -122,3 +122,7 @@ self consistent field neural network (SCFNN) model.
 <br>NNP/MM embeds a Neural Network Potential into a conventional molecular mechanical (MM) model. We have implemented this using the Custom QM/MM features of NAMD 2.13, which interface NAMD with the TorchANI NNP python library developed by the Roitberg and Isayev groups.
 - DeeP-HP(https://github.com/TinkerTools/tinker-hp/tree/Deep-HP)
 <br>support for neural networks potentials (ANI-2X, DeepMD)
+
+# Charge Model
+- [gimlet](https://github.com/choderalab/gimlet)  
+Graph Inference on MoLEcular Topology. A package for modelling, learning, and inference on molecular topological space written in Python and TensorFlow.
