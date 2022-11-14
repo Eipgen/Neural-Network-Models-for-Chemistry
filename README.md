@@ -92,6 +92,9 @@ About Graph neural network potential with charge transfer
 Amp: A modular approach to machine learning in atomistic simulations(https://github.com/ulissigroup/amptorch)
 - [SCFNN](https://github.com/andy90/SCFNN)
 self consistent field neural network (SCFNN) model.
+- [jax-md](https://github.com/google/jax-md)  
+ JAX MD is a functional and data driven library. Data is stored in arrays or tuples of arrays and functions transform data from one state to another.
+
 # Semi-Empirical Method
 
 
