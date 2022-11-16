@@ -3,8 +3,8 @@ A collection of Nerual Network Models for potential building
 
 # Functional
 
-- DeePKS, DeePHF 
-<br>[Deepmodeling/deepks-kit: a package for developing machine learning-based chemically accurate energy and density functional models](https://github.com/deepmodeling/deepks-kit)
+- [DeePKS, DeePHF](https://github.com/deepmodeling/deepks-kit)  
+DeePKS-kit is a program to generate accurate energy functionals for quantum chemistry systems, for both perturbative scheme (DeePHF) and self-consistent scheme (DeePKS).
 
 - NeuralXC 
 <br>[Implementation of a machine learned density functional](https://github.com/semodi/neuralxc)
@@ -23,21 +23,25 @@ A collection of Nerual Network Models for potential building
 - PauliNet(https://www.nature.com/articles/s41557-020-0544-y#Bib1)
 <br>PauliNet builds upon HF or CASSCF orbitals as a physically meaningful baseline and takes a neural network approach to the SJB wavefunction in order tocorrect this baseline towards a high-accuracy solution
 - DeePErwin(https://github.com/mdsunivie/deeperwin)
-<br>DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equatio
+<br>DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equation.
 
 
-# Molecular Field
+# Molecular Force Field Method
 
 - [DeePMD](https://github.com/deepmodeling/deepmd-kit) 
 <br>A package designed to minimize the effort required to build deep learning based model of interatomic potential energy and force field and to perform molecular dynamics (MD)
 - [Torch-ANI](https://github.com/aiqm/torchani)
 <br>TorchANI is a pytorch implementation of ANI
+- [Schrodinger-ANI](http://public-sani.onschrodinger.com/)  
+A neural network potential energy function for use in drug discovery, with chemical element support extended from 41% to 94% of druglike molecules based on ChEMBL.
 - [NerualForceFild](https://github.com/learningmatter-mit/NeuralForceField)
 <br>The Neural Force Field (NFF) code is an API based on SchNet, DimeNet, PaiNN and DANN . It provides an interface to train and evaluate neural networks for force fields. It can also be used as a property predictor that uses both 3D geometries and 2D graph information
 - [NNPOps](https://github.com/openmm/NNPOps)
 <br>The goal of this project is to promote the use of neural network potentials (NNPs) by providing highly optimized, open source implementations of bottleneck operations that appear in popular potentials. These are the core design principles.
 - [Neupiq](https://github.com/mir-group/nequip)
 <br>NequIP is an open-source code for building E(3)-equivariant interatomic potentials.
+- [E3NN](https://github.com/e3nn/e3nn)  
+Euclidean neural networks,The aim of this library is to help the development of E(3) equivariant neural networks. It contains fundamental mathematical operations such as tensor products and spherical harmonics.
 - [SchNet](https://github.com/atomistic-machine-learning/SchNet)
 <br>SchNet is a deep learning architecture that allows for spatially and chemically resolved insights into quantum-mechanical observables of atomistic systems.
 - [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack)
@@ -53,17 +57,17 @@ A collection of Nerual Network Models for potential building
 - [DeePMoleNet](https://github.com/Frank-LIU-520/DeepMoleNet)
 <br>DeepMoleNet is a deep learning package for molecular properties prediction
 - [AirNet](https://github.com/helloyesterday/AirNet)
-<br>A new GNN-based deep molecular model by Mindspore
+<br>A new GNN-based deep molecular model by MindSpore
 - [TorchMD-Net](https://github.com/torchmd/torchmd-net)
 <br>TorchMD-NET provides graph neural networks and equivariant transformer neural networks potentials for learning molecular potentials
 - [AQML](https://github.com/binghuang2018/aqml)
 <br>AQML is a mixed Python/Fortran/C++ package, intends to simulate quantum chemistry problems through the use of the fundamental building blocks of larger systems
 - [TensorMol](https://github.com/jparkhill/TensorMol)
-<br>pakcages of NN model chemistry
+<br>A pakcages of NN model chemistry, contains Behler-Parrinello with electrostatics, Many Body Expansion Bonds in Molecules NN, Atomwise, Forces, Inductive Charges.
 - [SpookyNet](https://github.com/OUnke/SpookyNet)
 <br>Spookynet: Learning force fields with electronic degrees of freedom and nonlocal effects
 - [RuNNer](https://www.uni-goettingen.de/de/software/616512.html)
-<br>a program package for constructing high-dimensional neural network potentials,4G-HDNNPs,3G-HDNNPs
+<br>A program package for constructing high-dimensional neural network potentials,4G-HDNNPs,3G-HDNNPs
 - [aenet](https://github.com/atomisticnet/aenet)
 <br>The Atomic Energy NETwork (ænet) package is a collection of tools for the construction and application of atomic interaction potentials based on artificial neural networks
 - [sGDML](http://www.sgdml.org/)
@@ -83,17 +87,18 @@ Particular emphasis is placed on the datasets, which include a diverse set of vi
 <br>universal neural network interatomic potential inspired by iterative electronic relaxations
 - [n2p2](https://github.com/CompPhysVienna/n2p2)
 <br>This repository provides ready-to-use software for high-dimensional neural network potentials in computational physics and chemistry.
-
-- [aimnet](https://github.com/aiqm/aimnet)
+- [aimnet](https://github.com/aiqm/aimnet)  
 This repository contains reference AIMNet implementation along with some examples and menchmarks
-- [charge_transfer_nnp](https://github.com/pfnet-research/charge_transfer_nnp)
+- [charge_transfer_nnp](https://github.com/pfnet-research/charge_transfer_nnp)  
 About Graph neural network potential with charge transfer
-- [AMP,AMPTorch](https://amp.readthedocs.io/en/latest/)
+- [AMP,AMPTorch](https://amp.readthedocs.io/en/latest/)  
 Amp: A modular approach to machine learning in atomistic simulations(https://github.com/ulissigroup/amptorch)
-- [SCFNN](https://github.com/andy90/SCFNN)
-self consistent field neural network (SCFNN) model.
+- [SCFNN](https://github.com/andy90/SCFNN)  
+A self consistent field neural network (SCFNN) model.
 - [jax-md](https://github.com/google/jax-md)  
  JAX MD is a functional and data driven library. Data is stored in arrays or tuples of arrays and functions transform data from one state to another.
+- [EANN](https://github.com/zhangylch/EANN)  
+Embedded Atomic Neural Network (EANN) is a physically-inspired neural network framework. The EANN package is implemented using the PyTorch framework used to train interatomic potentials, dipole moments, transition dipole moments and polarizabilities of various systems.
 
 # Semi-Empirical Method
 
@@ -106,9 +111,9 @@ self consistent field neural network (SCFNN) model.
 - BpopNN 
 <br>[Incorporating Electronic Information into Machine Learning Potential Energy Surfaces via Approaching the Ground-State Electronic Energy as a Function of Atom-Based Electronic Populations](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.0c00217)
 
-- Delfta(https://github.com/josejimenezluna/delfta)
+- [Delfta](https://github.com/josejimenezluna/delfta)
 <br>The DelFTa application is an easy-to-use, open-source toolbox for predicting quantum-mechanical properties of drug-like molecules. Using either ∆-learning (with a GFN2-xTB baseline) or direct-learning (without a baseline), the application accurately approximates DFT reference values (ωB97X-D/def2-SVP). 
-# Coarse-Grained 
+# Coarse-Grained Method 
 - cgnet
 (https://github.com/coarse-graining/cgnet)
 <br>Coarse graining for molecular dymamics
