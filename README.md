@@ -24,8 +24,8 @@ DeePKS-kit is a program to generate accurate energy functionals for quantum chem
 <br>PauliNet builds upon HF or CASSCF orbitals as a physically meaningful baseline and takes a neural network approach to the SJB wavefunction in order tocorrect this baseline towards a high-accuracy solution
 - DeePErwin(https://github.com/mdsunivie/deeperwin)
 <br>DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equation.
-
-
+- Jax-DFT(https://github.com/google-research/google-research/tree/master/jax_dft)
+<br>JAX-DFT implements one-dimensional density functional theory (DFT) in JAX. It uses powerful JAX primitives to enable JIT compilation, automatical differentiation, and high-performance computation on GPUs.
 # Molecular Force Field Method
 
 - [DeePMD](https://github.com/deepmodeling/deepmd-kit) 
