@@ -134,3 +134,5 @@ We explore the application of SchNet models to obtain a CG potential for liquid 
 # Charge Model
 - [gimlet](https://github.com/choderalab/gimlet)  
 Graph Inference on MoLEcular Topology. A package for modelling, learning, and inference on molecular topological space written in Python and TensorFlow.
+
+# Post-HF Method
