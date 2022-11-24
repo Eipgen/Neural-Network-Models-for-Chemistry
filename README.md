@@ -8,6 +8,8 @@ DeePKS-kit is a program to generate accurate energy functionals for quantum chem
 
 - [NeuralXC](https://github.com/semodi/neuralxc)
 <br>[Implementation of a machine learned density functional].
+- [MLCF](https://github.com/semodi/mlcf)  
+This repository provides an implementation of the MLCF method introduced in https://arxiv.org/abs/1812.06572.
 
 - [MOB-ML](https://aip.scitation.org/doi/10.1063/5.0032362)
 <br>[Machine Learning for Molecular Orbital Theory].
