@@ -12,10 +12,10 @@ DeePKS-kit is a program to generate accurate energy functionals for quantum chem
 This repository provides an implementation of the MLCF method introduced in https://arxiv.org/abs/1812.06572.
 
 - [MOB-ML](https://aip.scitation.org/doi/10.1063/5.0032362)
-<br>[Machine Learning for Molecular Orbital Theory].
+<br>Machine Learning for Molecular Orbital Theory.
 
 - [DM21](https://github.com/deepmind/deepmind-research/tree/master/density_functional_approximation_dm21)
-<br>[Pushing the Frontiers of Density Functionals by Solving the Fractional Electron Problem].
+<br>Pushing the Frontiers of Density Functionals by Solving the Fractional Electron Problem.
 - [NN-GGA, NN-NRA, NN-meta-GGA, NN-LSDA](https://github.com/ml-electron-project/NNfunctional)
 <br>Completing density functional theory by machine-learning hidden messages from molecules.
 - [FemiNet](https://github.com/deepmind/ferminet)
