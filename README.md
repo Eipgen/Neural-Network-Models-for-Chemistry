@@ -99,6 +99,8 @@ A self consistent field neural network (SCFNN) model.
  JAX MD is a functional and data driven library. Data is stored in arrays or tuples of arrays and functions transform data from one state to another.
 - [EANN](https://github.com/zhangylch/EANN)  
 Embedded Atomic Neural Network (EANN) is a physically-inspired neural network framework. The EANN package is implemented using the PyTorch framework used to train interatomic potentials, dipole moments, transition dipole moments and polarizabilities of various systems.
+- [espaloma](https://github.com/choderalab/espaloma)
+Extensible Surrogate Potential of Ab initio Learned and Optimized by Message-passing Algorithm.
 
 # Semi-Empirical Method
 - [OrbNet](https://arxiv.org/abs/2107.00299)
