@@ -1,34 +1,35 @@
 # Neural-Network-Models-for-chemistry
+
 A collection of Nerual Network Models for potential building
 
-# Density Functional Theory Method
+## Density Functional Theory Method
 
 - [DeePKS, DeePHF](https://github.com/deepmodeling/deepks-kit)  
 DeePKS-kit is a program to generate accurate energy functionals for quantum chemistry systems, for both perturbative scheme (DeePHF) and self-consistent scheme (DeePKS).
 
-- [NeuralXC](https://github.com/semodi/neuralxc)
-<br>[Implementation of a machine learned density functional].
+- [NeuralXC](https://github.com/semodi/neuralxc) Implementation of a machine learned density functional.
 
-- [MOB-ML](https://aip.scitation.org/doi/10.1063/5.0032362)
-<br>[Machine Learning for Molecular Orbital Theory].
+- [MOB-ML](https://aip.scitation.org/doi/10.1063/5.0032362) 
+Machine Learning for Molecular Orbital Theory.
 
-- [DM21](https://github.com/deepmind/deepmind-research/tree/master/density_functional_approximation_dm21)
-<br>[Pushing the Frontiers of Density Functionals by Solving the Fractional Electron Problem].
-- [NN-GGA, NN-NRA, NN-meta-GGA, NN-LSDA](https://github.com/ml-electron-project/NNfunctional)
-<br>Completing density functional theory by machine-learning hidden messages from molecules.
-- [FemiNet](https://github.com/deepmind/ferminet)
-<br>FermiNet is a neural network for learning highly accurate ground state wavefunctions of atoms and molecules using a variational Monte Carlo approach.
-- [DeePQMC](https://github.com/deepqmc/deepqmc)
-<br>DeepQMC implements variational quantum Monte Carlo for electrons in molecules, using deep neural networks written in PyTorch as trial wave functions.
-- [PauliNet](https://www.nature.com/articles/s41557-020-0544-y#Bib1)
-<br>PauliNet builds upon HF or CASSCF orbitals as a physically meaningful baseline and takes a neural network approach to the SJB wavefunction in order tocorrect this baseline towards a high-accuracy solution.
-- [DeePErwin](https://github.com/mdsunivie/deeperwin)
-<br>DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equation.
-- Jax-DFT(https://github.com/google-research/google-research/tree/master/jax_dft)
+- [DM21](https://github.com/deepmind/deepmind-research/tree/master/density_functional_approximation_dm21)  
+Pushing the Frontiers of Density Functionals by Solving the Fractional Electron Problem.
+- [NN-GGA, NN-NRA, NN-meta-GGA, NN-LSDA](https://github.com/ml-electron-project/NNfunctional)  
+Completing density functional theory by machine-learning hidden messages from molecules.
+- [FemiNet](https://github.com/deepmind/ferminet)  
+FermiNet is a neural network for learning highly accurate ground state wavefunctions of atoms and molecules using a variational Monte Carlo approach.
+- [DeePQMC](https://github.com/deepqmc/deepqmc)  
+DeepQMC implements variational quantum Monte Carlo for electrons in molecules, using deep neural networks written in PyTorch as trial wave functions.
+- [PauliNet](https://www.nature.com/articles/s41557-020-0544-y#Bib1)  
+PauliNet builds upon HF or CASSCF orbitals as a physically meaningful baseline and takes a neural network approach to the SJB wavefunction in order tocorrect this baseline towards a high-accuracy solution.
+- [DeePErwin](https://github.com/mdsunivie/deeperwin)  
+DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equation.
+- [Jax-DFT](https://github.com/google-research/google-research/tree/master/jax_dft) 
 <br>JAX-DFT implements one-dimensional density functional theory (DFT) in JAX. It uses powerful JAX primitives to enable JIT compilation, automatical differentiation, and high-performance computation on GPUs.
-# Molecular Force Field Method
 
-- [DeePMD](https://github.com/deepmodeling/deepmd-kit) 
+## Molecular Force Field Method
+
+- [DeePMD](https://github.com/deepmodeling/deepmd-kit)
 <br>A package designed to minimize the effort required to build deep learning based model of interatomic potential energy and force field and to perform molecular dynamics.
 - [Torch-ANI](https://github.com/aiqm/torchani)
 <br>TorchANI is a pytorch implementation of ANI model.
@@ -92,7 +93,7 @@ This repository contains reference AIMNet implementation along with some example
 - [charge_transfer_nnp](https://github.com/pfnet-research/charge_transfer_nnp)  
 About Graph neural network potential with charge transfer with neuqip model.
 - [AMP](https://amp.readthedocs.io/en/latest/)  
-Amp: A modular approach to machine learning in atomistic simulations(https://github.com/ulissigroup/amptorch)
+Amp: A modular approach to machine learning in atomistic simulations(<https://github.com/ulissigroup/amptorch>)
 - [SCFNN](https://github.com/andy90/SCFNN)  
 A self consistent field neural network (SCFNN) model.
 - [jax-md](https://github.com/google/jax-md)  
@@ -102,7 +103,8 @@ Embedded Atomic Neural Network (EANN) is a physically-inspired neural network fr
 - [espaloma](https://github.com/choderalab/espaloma)
 Extensible Surrogate Potential of Ab initio Learned and Optimized by Message-passing Algorithm.
 
-# Semi-Empirical Method
+## Semi-Empirical Method
+
 - [OrbNet](https://arxiv.org/abs/2107.00299)
 <br>OrbNet Denali: A machine learning potential for biological and organic chemistry with semi-empirical cost and DFT accuracy.
 
@@ -113,28 +115,36 @@ Extensible Surrogate Potential of Ab initio Learned and Optimized by Message-pas
 <br>Incorporating Electronic Information into Machine Learning Potential Energy Surfaces via Approaching the Ground-State Electronic Energy as a Function of Atom-Based Electronic Populations.
 
 - [Delfta](https://github.com/josejimenezluna/delfta)
-<br>The DelFTa application is an easy-to-use, open-source toolbox for predicting quantum-mechanical properties of drug-like molecules. Using either ∆-learning (with a GFN2-xTB baseline) or direct-learning (without a baseline), the application accurately approximates DFT reference values (ωB97X-D/def2-SVP). 
-# Coarse-Grained Method 
+<br>The DelFTa application is an easy-to-use, open-source toolbox for predicting quantum-mechanical properties of drug-like molecules. Using either ∆-learning (with a GFN2-xTB baseline) or direct-learning (without a baseline), the application accurately approximates DFT reference values (ωB97X-D/def2-SVP).
+
+## Coarse-Grained Method
+
 - [cgnet](https://github.com/coarse-graining/cgnet)
 <br>Coarse graining for molecular dymamics
 - [SchNet-CG](https://arxiv.org/ftp/arxiv/papers/2209/2209.12948.pdf)  
 We explore the application of SchNet models to obtain a CG potential for liquid benzene, investigating the effect of model architecture and hyperparameters on the thermodynamic, dynamical, and structural properties of the simulated CG systems, reporting and discussing challenges encountered and future directions envisioned.
 
-# Enhanced Sampling Method
+## Enhanced Sampling Method
+
 - [VES-NN](https://www.pnas.org/doi/epdf/10.1073/pnas.1907975116)
 <br>[Neural networks-based variationallyenhanced sampling]
 
 - [Accelerated_sampling_with_autoencoder](https://github.com/weiHelloWorld/accelerated_sampling_with_autoencoder)
 <br>[Accelerated sampling framework with autoencoder-based method]
 
-# QM/MM Model
+## QM/MM Model
+
 - [NNP-MM](https://github.com/RowleyGroup/NNP-MM)
 <br>NNP/MM embeds a Neural Network Potential into a conventional molecular mechanical (MM) model. We have implemented this using the Custom QM/MM features of NAMD 2.13, which interface NAMD with the TorchANI NNP python library developed by the Roitberg and Isayev groups.
 - [DeeP-HP](https://github.com/TinkerTools/tinker-hp/tree/Deep-HP)
 <br>support for neural networks potentials (ANI-2X, DeepMD).
 
-# Charge Model
+## Charge Model
+
 - [gimlet](https://github.com/choderalab/gimlet)  
 Graph Inference on MoLEcular Topology. A package for modelling, learning, and inference on molecular topological space written in Python and TensorFlow.
 
-# Post-HF Method
+## Post-HF Method
+LNO-CCSD(T)
+DLPNO-CCSD(T)
+PNO-CCSD(T)
