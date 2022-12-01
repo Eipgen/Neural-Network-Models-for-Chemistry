@@ -6,31 +6,12 @@ A collection of Nerual Network Models for potential building
 
 - [DeePKS, DeePHF](https://github.com/deepmodeling/deepks-kit)  
 DeePKS-kit is a program to generate accurate energy functionals for quantum chemistry systems, for both perturbative scheme (DeePHF) and self-consistent scheme (DeePKS).
-- [NeuralXC](https://github.com/semodi/neuralxc) Implementation of a machine learned density functional.
-- [MOB-ML](https://aip.scitation.org/doi/10.1063/5.0032362) 
-Machine Learning for Molecular Orbital Theory.
-- [DM21](https://github.com/deepmind/deepmind-research/tree/master/density_functional_approximation_dm21)  
-Pushing the Frontiers of Density Functionals by Solving the Fractional Electron Problem.
-- [NN-GGA, NN-NRA, NN-meta-GGA, NN-LSDA](https://github.com/ml-electron-project/NNfunctional)  
-Completing density functional theory by machine-learning hidden messages from molecules.
-- [FemiNet](https://github.com/deepmind/ferminet)  
-FermiNet is a neural network for learning highly accurate ground state wavefunctions of atoms and molecules using a variational Monte Carlo approach.
-- [DeePQMC](https://github.com/deepqmc/deepqmc)  
-DeepQMC implements variational quantum Monte Carlo for electrons in molecules, using deep neural networks written in PyTorch as trial wave functions.
-- [PauliNet](https://www.nature.com/articles/s41557-020-0544-y#Bib1)  
-PauliNet builds upon HF or CASSCF orbitals as a physically meaningful baseline and takes a neural network approach to the SJB wavefunction in order tocorrect this baseline towards a high-accuracy solution.
-- [DeePErwin](https://github.com/mdsunivie/deeperwin)  
-DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equation.
-- [Jax-DFT](https://github.com/google-research/google-research/tree/master/jax_dft) 
-=======
 - [NeuralXC](https://github.com/semodi/neuralxc)
-<br>[Implementation of a machine learned density functional].
+<br>Implementation of a machine learned density functional.
 - [MLCF](https://github.com/semodi/mlcf)  
 This repository provides an implementation of the MLCF method introduced in https://arxiv.org/abs/1812.06572.
-
 - [MOB-ML](https://aip.scitation.org/doi/10.1063/5.0032362)
 <br>Machine Learning for Molecular Orbital Theory.
-
 - [DM21](https://github.com/deepmind/deepmind-research/tree/master/density_functional_approximation_dm21)
 <br>Pushing the Frontiers of Density Functionals by Solving the Fractional Electron Problem.
 - [NN-GGA, NN-NRA, NN-meta-GGA, NN-LSDA](https://github.com/ml-electron-project/NNfunctional)
@@ -45,7 +26,8 @@ This repository provides an implementation of the MLCF method introduced in http
 <br>DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equation.
 - [Jax-DFT](https://github.com/google-research/google-research/tree/master/jax_dft)
 <br>JAX-DFT implements one-dimensional density functional theory (DFT) in JAX. It uses powerful JAX primitives to enable JIT compilation, automatical differentiation, and high-performance computation on GPUs.
-
+- [equivariant_electron_density](https://github.com/JoshRackers/equivariant_electron_density)  
+Generate and predict molecular electron densities with Euclidean Neural Networks
 ## Molecular Force Field Method
 
 - [DeePMD](https://github.com/deepmodeling/deepmd-kit)
