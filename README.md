@@ -6,28 +6,27 @@ A collection of Nerual Network Models for potential building
 
 - [DeePKS, DeePHF](https://github.com/deepmodeling/deepks-kit)  
 DeePKS-kit is a program to generate accurate energy functionals for quantum chemistry systems, for both perturbative scheme (DeePHF) and self-consistent scheme (DeePKS).
-- [NeuralXC](https://github.com/semodi/neuralxc)
-<br>Implementation of a machine learned density functional.
-- [MLCF](https://github.com/semodi/mlcf)  
-This repository provides an implementation of the MLCF method introduced in https://arxiv.org/abs/1812.06572.
-- [MOB-ML](https://aip.scitation.org/doi/10.1063/5.0032362)
-<br>Machine Learning for Molecular Orbital Theory.
-- [DM21](https://github.com/deepmind/deepmind-research/tree/master/density_functional_approximation_dm21)
-<br>Pushing the Frontiers of Density Functionals by Solving the Fractional Electron Problem.
-- [NN-GGA, NN-NRA, NN-meta-GGA, NN-LSDA](https://github.com/ml-electron-project/NNfunctional)
-<br>Completing density functional theory by machine-learning hidden messages from molecules.
-- [FemiNet](https://github.com/deepmind/ferminet)
-<br>FermiNet is a neural network for learning highly accurate ground state wavefunctions of atoms and molecules using a variational Monte Carlo approach.
-- [DeePQMC](https://github.com/deepqmc/deepqmc)
-<br>DeepQMC implements variational quantum Monte Carlo for electrons in molecules, using deep neural networks written in PyTorch as trial wave functions.
-- [PauliNet](https://www.nature.com/articles/s41557-020-0544-y#Bib1)
-<br>PauliNet builds upon HF or CASSCF orbitals as a physically meaningful baseline and takes a neural network approach to the SJB wavefunction in order tocorrect this baseline towards a high-accuracy solution.
-- [DeePErwin](https://github.com/mdsunivie/deeperwin)
-<br>DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equation.
-- [Jax-DFT](https://github.com/google-research/google-research/tree/master/jax_dft)
+
+- [NeuralXC](https://github.com/semodi/neuralxc) Implementation of a machine learned density functional.
+
+- [MOB-ML](https://aip.scitation.org/doi/10.1063/5.0032362) 
+Machine Learning for Molecular Orbital Theory.
+
+- [DM21](https://github.com/deepmind/deepmind-research/tree/master/density_functional_approximation_dm21)  
+Pushing the Frontiers of Density Functionals by Solving the Fractional Electron Problem.
+- [NN-GGA, NN-NRA, NN-meta-GGA, NN-LSDA](https://github.com/ml-electron-project/NNfunctional)  
+Completing density functional theory by machine-learning hidden messages from molecules.
+- [FemiNet](https://github.com/deepmind/ferminet)  
+FermiNet is a neural network for learning highly accurate ground state wavefunctions of atoms and molecules using a variational Monte Carlo approach.
+- [DeePQMC](https://github.com/deepqmc/deepqmc)  
+DeepQMC implements variational quantum Monte Carlo for electrons in molecules, using deep neural networks written in PyTorch as trial wave functions.
+- [PauliNet](https://www.nature.com/articles/s41557-020-0544-y#Bib1)  
+PauliNet builds upon HF or CASSCF orbitals as a physically meaningful baseline and takes a neural network approach to the SJB wavefunction in order tocorrect this baseline towards a high-accuracy solution.
+- [DeePErwin](https://github.com/mdsunivie/deeperwin)  
+DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equation.
+- [Jax-DFT](https://github.com/google-research/google-research/tree/master/jax_dft) 
 <br>JAX-DFT implements one-dimensional density functional theory (DFT) in JAX. It uses powerful JAX primitives to enable JIT compilation, automatical differentiation, and high-performance computation on GPUs.
-- [equivariant_electron_density](https://github.com/JoshRackers/equivariant_electron_density)  
-Generate and predict molecular electron densities with Euclidean Neural Networks
+
 ## Molecular Force Field Method
 
 - [DeePMD](https://github.com/deepmodeling/deepmd-kit)
@@ -101,8 +100,19 @@ A self consistent field neural network (SCFNN) model.
  JAX MD is a functional and data driven library. Data is stored in arrays or tuples of arrays and functions transform data from one state to another.
 - [EANN](https://github.com/zhangylch/EANN)  
 Embedded Atomic Neural Network (EANN) is a physically-inspired neural network framework. The EANN package is implemented using the PyTorch framework used to train interatomic potentials, dipole moments, transition dipole moments and polarizabilities of various systems.
-- [espaloma](https://github.com/choderalab/espaloma)  
+- [espaloma](https://github.com/choderalab/espaloma)
 Extensible Surrogate Potential of Ab initio Learned and Optimized by Message-passing Algorithm.
+- [MDsim](https://github.com/kyonofx/MDsim)  
+Training and simulating MD with ML force fields
+- [ForceNet](https://github.com/Open-Catalyst-Project/ocp/blob/main/ocpmodels/models/forcenet.py) 
+We demonstrate that force-centric GNN models without any explicit physical constraints are able to predict atomic forces more accurately than state-of-the-art energy centric GNN models, while being faster both in training
+and inference.
+- [DIG](https://github.com/divelab/DIG)  
+A library for graph deep learning research.
+- [scn](https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn)  
+Spherical Channels for Modeling Atomic Interactions
+- [spinconv](https://github.com/Open-Catalyst-Project/ocp/blob/main/ocpmodels/models/spinconv.py)  
+Rotation Invariant Graph Neural Networks using Spin Convolutions.
 
 ## Semi-Empirical Method
 
