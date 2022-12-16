@@ -100,7 +100,7 @@ A self consistent field neural network (SCFNN) model.
  JAX MD is a functional and data driven library. Data is stored in arrays or tuples of arrays and functions transform data from one state to another.
 - [EANN](https://github.com/zhangylch/EANN)  
 Embedded Atomic Neural Network (EANN) is a physically-inspired neural network framework. The EANN package is implemented using the PyTorch framework used to train interatomic potentials, dipole moments, transition dipole moments and polarizabilities of various systems.
-- [espaloma](https://github.com/choderalab/espaloma)
+- [espaloma](https://github.com/choderalab/espaloma)  
 Extensible Surrogate Potential of Ab initio Learned and Optimized by Message-passing Algorithm.
 - [MDsim](https://github.com/kyonofx/MDsim)  
 Training and simulating MD with ML force fields
@@ -156,6 +156,6 @@ We explore the application of SchNet models to obtain a CG potential for liquid 
 Graph Inference on MoLEcular Topology. A package for modelling, learning, and inference on molecular topological space written in Python and TensorFlow.
 
 ## Post-HF Method
-LNO-CCSD(T)  
-DLPNO-CCSD(T)  
-PNO-CCSD(T)  
+- [LNO-CCSD(T)](https://pubs.acs.org/doi/10.1021/acs.jctc.8b00442)
+- [DLPNO-CCSD(T)](https://pubs.acs.org/doi/10.1021/acs.jpca.0c11270)
+- [PNO-CCSD(T)](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00180)
