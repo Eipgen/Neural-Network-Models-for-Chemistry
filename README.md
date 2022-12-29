@@ -113,7 +113,8 @@ A library for graph deep learning research.
 Spherical Channels for Modeling Atomic Interactions
 - [spinconv](https://github.com/Open-Catalyst-Project/ocp/blob/main/ocpmodels/models/spinconv.py)  
 Rotation Invariant Graph Neural Networks using Spin Convolutions.
-
+-[HIPPYNN](https://github.com/lanl/hippynn)  
+a modular library for atomistic machine learning with pytorch.
 ## Semi-Empirical Method
 
 - [OrbNet](https://arxiv.org/abs/2107.00299)
