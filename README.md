@@ -115,6 +115,9 @@ Spherical Channels for Modeling Atomic Interactions
 Rotation Invariant Graph Neural Networks using Spin Convolutions.
 - [HIPPYNN](https://github.com/lanl/hippynn)  
 a modular library for atomistic machine learning with pytorch.
+- [VisNet](https://github.com/microsoft/ViSNet/tree/OGB-LSC%40NIPS2022)   
+a scalable and accurate geometric deep learning potential for molecular dynamics simulation
+
 ## Semi-Empirical Method
 
 - [OrbNet](https://arxiv.org/abs/2107.00299)
