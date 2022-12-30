@@ -26,8 +26,8 @@ DeepQMC implements variational quantum Monte Carlo for electrons in molecules, u
 PauliNet builds upon HF or CASSCF orbitals as a physically meaningful baseline and takes a neural network approach to the SJB wavefunction in order tocorrect this baseline towards a high-accuracy solution.
 - [DeePErwin](https://github.com/mdsunivie/deeperwin)  
 DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equation.
-- [Jax-DFT](https://github.com/google-research/google-research/tree/master/jax_dft) 
-<br>JAX-DFT implements one-dimensional density functional theory (DFT) in JAX. It uses powerful JAX primitives to enable JIT compilation, automatical differentiation, and high-performance computation on GPUs.
+- [Jax-DFT](https://github.com/google-research/google-research/tree/master/jax_dft)  
+JAX-DFT implements one-dimensional density functional theory (DFT) in JAX. It uses powerful JAX primitives to enable JIT compilation, automatical differentiation, and high-performance computation on GPUs.
 
 ## Molecular Force Field Method
 
@@ -137,7 +137,7 @@ a scalable and accurate geometric deep learning potential for molecular dynamics
 ## Coarse-Grained Method
 
 - [cgnet](https://github.com/coarse-graining/cgnet)
-<br>Coarse graining for molecular dymamics
+<br>Coarse graining for molecular dynamics
 - [SchNet-CG](https://arxiv.org/ftp/arxiv/papers/2209/2209.12948.pdf)  
 We explore the application of SchNet models to obtain a CG potential for liquid benzene, investigating the effect of model architecture and hyperparameters on the thermodynamic, dynamical, and structural properties of the simulated CG systems, reporting and discussing challenges encountered and future directions envisioned.
 
@@ -159,7 +159,7 @@ We explore the application of SchNet models to obtain a CG potential for liquid 
 ## Charge Model
 
 - [gimlet](https://github.com/choderalab/gimlet)  
-Graph Inference on MoLEcular Topology. A package for modelling, learning, and inference on molecular topological space written in Python and TensorFlow.
+Graph Inference on Molecular Topology. A package for modelling, learning, and inference on molecular topological space written in Python and TensorFlow.
 
 ## Post-HF Method
 - [LNO-CCSD(T)](https://pubs.acs.org/doi/10.1021/acs.jpca.0c11270)
