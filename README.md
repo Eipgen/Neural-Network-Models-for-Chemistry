@@ -1,7 +1,7 @@
 # Neural-Network-Models-for-chemistry
 [![Check Markdown links](https://github.com/DiracMD/Neural-Network-Models-for-chemistry/actions/workflows/main.yml/badge.svg)](https://github.com/DiracMD/Neural-Network-Models-for-chemistry/actions/workflows/main.yml)
 
-A collection of Nerual Network Models for potential building
+A collection of Neural Network Models for potential building
 
 ## Density Functional Theory Method
 
