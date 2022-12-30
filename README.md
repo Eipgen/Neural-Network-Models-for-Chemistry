@@ -162,6 +162,8 @@ We explore the application of SchNet models to obtain a CG potential for liquid 
 Graph Inference on Molecular Topology. A package for modelling, learning, and inference on molecular topological space written in Python and TensorFlow.
 
 ## Post-HF Method
+<!-- markdown-link-check-disable-next-line -->
 - [LNO-CCSD(T)](https://pubs.acs.org/doi/10.1021/acs.jpca.0c11270)
+<!-- markdown-link-check-disable-next-line -->
 - [DLPNO-CCSD(T)](https://doi.org/10.1021/acs.jpca.0c11270)
 - [PNO-CCSD(T)](https://doi.org/10.1021/acs.jctc.7b00180)
