@@ -127,7 +127,7 @@ a scalable and accurate geometric deep learning potential for molecular dynamics
 
 - [AIQM1](https://doi.org/10.1038/s41467-021-27340-2)
 <br>Artificial intelligence-enhanced quantum chemical method with broad applicability.
-
+<!-- markdown-link-check-disable-next-line -->
 - [BpopNN](https://doi.org/10.1021/acs.jctc.0c00217)
 <br>Incorporating Electronic Information into Machine Learning Potential Energy Surfaces via Approaching the Ground-State Electronic Energy as a Function of Atom-Based Electronic Populations.
 
@@ -142,7 +142,7 @@ a scalable and accurate geometric deep learning potential for molecular dynamics
 We explore the application of SchNet models to obtain a CG potential for liquid benzene, investigating the effect of model architecture and hyperparameters on the thermodynamic, dynamical, and structural properties of the simulated CG systems, reporting and discussing challenges encountered and future directions envisioned.
 
 ## Enhanced Sampling Method
-
+<!-- markdown-link-check-disable-next-line -->
 - [VES-NN](https://doi.org/10.1073/pnas.1907975116)
 <br>[Neural networks-based variationallyenhanced sampling]
 
@@ -166,4 +166,5 @@ Graph Inference on Molecular Topology. A package for modelling, learning, and in
 - [LNO-CCSD(T)](https://pubs.acs.org/doi/10.1021/acs.jpca.0c11270)
 <!-- markdown-link-check-disable-next-line -->
 - [DLPNO-CCSD(T)](https://doi.org/10.1021/acs.jpca.0c11270)
+<!-- markdown-link-check-disable-next-line -->
 - [PNO-CCSD(T)](https://doi.org/10.1021/acs.jctc.7b00180)
