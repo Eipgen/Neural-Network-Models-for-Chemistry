@@ -8,9 +8,10 @@ A collection of Nerual Network Models for potential building
 - [DeePKS, DeePHF](https://github.com/deepmodeling/deepks-kit)  
 DeePKS-kit is a program to generate accurate energy functionals for quantum chemistry systems, for both perturbative scheme (DeePHF) and self-consistent scheme (DeePKS).
 
-- [NeuralXC](https://github.com/semodi/neuralxc) Implementation of a machine learned density functional.
+- [NeuralXC](https://github.com/semodi/neuralxc)  
+Implementation of a machine learned density functional.
 
-- [MOB-ML](https://aip.scitation.org/doi/10.1063/5.0032362) 
+- [MOB-ML](https://aip.scitation.org/doi/10.1063/5.0032362)   
 Machine Learning for Molecular Orbital Theory.
 
 - [DM21](https://github.com/deepmind/deepmind-research/tree/master/density_functional_approximation_dm21)  
