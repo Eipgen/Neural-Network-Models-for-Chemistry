@@ -119,6 +119,8 @@ Rotation Invariant Graph Neural Networks using Spin Convolutions.
 a modular library for atomistic machine learning with pytorch.
 - [VisNet](https://github.com/microsoft/ViSNet)     
 a scalable and accurate geometric deep learning potential for molecular dynamics simulation
+- [flare](https://github.com/mir-group/flare)  
+FLARE is an open-source Python package for creating fast and accurate interatomic potentials.
 
 ## Semi-Empirical Method
 
