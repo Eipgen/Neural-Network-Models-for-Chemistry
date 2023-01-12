@@ -28,6 +28,8 @@ PauliNet builds upon HF or CASSCF orbitals as a physically meaningful baseline a
 DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equation.
 - [Jax-DFT](https://github.com/google-research/google-research/tree/master/jax_dft)  
 JAX-DFT implements one-dimensional density functional theory (DFT) in JAX. It uses powerful JAX primitives to enable JIT compilation, automatical differentiation, and high-performance computation on GPUs.
+- [sns-mp2](https://github.com/DEShawResearch/sns-mp2)  
+Improving the accuracy of Moller-Plesset perturbation theory with neural networks
 
 ## Molecular Force Field Method
 
