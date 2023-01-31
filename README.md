@@ -30,6 +30,8 @@ DeepErwin is python package that implements and optimizes wave function models f
 JAX-DFT implements one-dimensional density functional theory (DFT) in JAX. It uses powerful JAX primitives to enable JIT compilation, automatical differentiation, and high-performance computation on GPUs.
 - [sns-mp2](https://github.com/DEShawResearch/sns-mp2)  
 Improving the accuracy of Moller-Plesset perturbation theory with neural networks
+- [DeepH-pack](https://github.com/mzjb/DeepH-pack)  
+Deep neural networks for density functional theory Hamiltonian.
 
 ## Molecular Force Field Method
 
