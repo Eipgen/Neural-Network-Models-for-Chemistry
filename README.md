@@ -39,6 +39,8 @@ Deep neural networks for density functional theory Hamiltonian.
 <br>A package designed to minimize the effort required to build deep learning based model of interatomic potential energy and force field and to perform molecular dynamics.
 - [Torch-ANI](https://github.com/aiqm/torchani)
 <br>TorchANI is a pytorch implementation of ANI model.
+- [mdgrad](https://github.com/torchmd/mdgrad/tree/pair)  
+Pytorch differentiable molecular dynamics
 - [Schrodinger-ANI](http://public-sani.onschrodinger.com/)  
 A neural network potential energy function for use in drug discovery, with chemical element support extended from 41% to 94% of druglike molecules based on ChEMBL.
 - [NerualForceFild](https://github.com/learningmatter-mit/NeuralForceField)
