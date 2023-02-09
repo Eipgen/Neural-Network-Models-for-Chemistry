@@ -161,7 +161,7 @@ Accelerated sampling framework with autoencoder-based method
 
 - [NNP-MM](https://github.com/RowleyGroup/NNP-MM)
 <br>NNP/MM embeds a Neural Network Potential into a conventional molecular mechanical (MM) model. We have implemented this using the Custom QM/MM features of NAMD 2.13, which interface NAMD with the TorchANI NNP python library developed by the Roitberg and Isayev groups.
-- [DeeP-HP](https://github.com/TinkerTools/tinker-hp/tree/Deep-HP)
+- [DeeP-HP](https://github.com/TinkerTools/tinker-hp)
 <br>support for neural networks potentials (ANI-2X, DeepMD).
 
 ## Charge Model
