@@ -151,11 +151,11 @@ We explore the application of SchNet models to obtain a CG potential for liquid 
 
 ## Enhanced Sampling Method
 <!-- markdown-link-check-disable-next-line -->
-- [VES-NN](https://doi.org/10.1073/pnas.1907975116)
-<br>[Neural networks-based variationallyenhanced sampling]
+- [VES-NN](https://doi.org/10.1073/pnas.1907975116)  
+Neural networks-based variationallyenhanced sampling
 
-- [Accelerated_sampling_with_autoencoder](https://github.com/weiHelloWorld/accelerated_sampling_with_autoencoder)
-<br>[Accelerated sampling framework with autoencoder-based method]
+- [Accelerated_sampling_with_autoencoder](https://github.com/weiHelloWorld/accelerated_sampling_with_autoencoder)  
+Accelerated sampling framework with autoencoder-based method
 
 ## QM/MM Model
 
