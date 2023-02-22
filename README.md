@@ -126,7 +126,10 @@ a modular library for atomistic machine learning with pytorch.
 - [VisNet](https://github.com/microsoft/ViSNet)     
 a scalable and accurate geometric deep learning potential for molecular dynamics simulation
 - [flare](https://github.com/mir-group/flare)  
-FLARE is an open-source Python package for creating fast and accurate interatomic potentials.
+FLARE is an open-source Python package for creating fast and accurate interatomic potentials.)  
+- [alignn](https://github.com/usnistgov/alignn)  
+The Atomistic Line Graph Neural Network (https://www.nature.com/articles/s41524-021-00650-1) introduces a new graph convolution layer that explicitly models both two and three body interactions in atomistic systems.
+
 
 ## Semi-Empirical Method
 
