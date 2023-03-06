@@ -34,6 +34,8 @@ Improving the accuracy of Moller-Plesset perturbation theory with neural network
 Deep neural networks for density functional theory Hamiltonian.
 - [kdft](https://gitlab.com/jmargraf/kdf)  
 The Kernel Density Functional (KDF) code allows generating ML based DFT functionals.
+- [ML-DFT](https://github.com/MihailBogojeski/ml-dft)  
+ML-DFT: Machine learning for density functional approximations This repository contains the implementation for the kernel ridge regression based density functional approximation method described in the paper "Quantum chemical accuracy from density functional approximations via machine learning".
 
 ## Molecular Force Field Method
 
