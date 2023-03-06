@@ -131,7 +131,8 @@ FLARE is an open-source Python package for creating fast and accurate interatomi
 The Atomistic Line Graph Neural Network (https://www.nature.com/articles/s41524-021-00650-1) introduces a new graph convolution layer that explicitly models both two and three body interactions in atomistic systems.
 - [So3krates](https://github.com/thorben-frank/mlff)  
 Repository for training, testing and developing machine learned force fields using the So3krates model. 
-
+- [spice-model-five-net](https://github.com/openmm/spice-models/tree/main/five-et)  
+Contains the five equivariant transformer models about the spice datasets(https://github.com/openmm/spice-dataset/releases/tag/1.1). 
 
 ## Semi-Empirical Method
 
