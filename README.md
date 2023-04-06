@@ -141,6 +141,8 @@ The Atomistic Line Graph Neural Network (https://www.nature.com/articles/s41524-
 Repository for training, testing and developing machine learned force fields using the So3krates model. 
 - [spice-model-five-net](https://github.com/openmm/spice-models/tree/main/five-et)  
 Contains the five equivariant transformer models about the spice datasets(https://github.com/openmm/spice-dataset/releases/tag/1.1). 
+- [sake](https://github.com/choderalab/sake)  
+Spatial Attention Kinetic Networks with E(n)-Equivariance
 
 ## Semi-Empirical Method
 
