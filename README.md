@@ -143,6 +143,23 @@ Repository for training, testing and developing machine learned force fields usi
 Contains the five equivariant transformer models about the spice datasets(https://github.com/openmm/spice-dataset/releases/tag/1.1). 
 - [sake](https://github.com/choderalab/sake)  
 Spatial Attention Kinetic Networks with E(n)-Equivariance
+- [eqgat](https://github.com/Bayer-Group/eqgat)  
+Pytorch implementation for the manuscript Representation Learning on Biomolecular Structures using Equivariant Graph Attention
+- [phast](https://github.com/vict0rsch/phast) 
+PyTorch implementation for PhAST: Physics-Aware, Scalable and Task-specific GNNs for Accelerated Catalyst Design
+- [GNN-LF](https://github.com/GraphPKU/GNN-LF)  
+Graph Neural Network With Local Frame for Molecular Potential Energy Surface  
+- [Cormorant](https://arxiv.org/abs/1906.04015)  
+We propose Cormorant, a rotationally covariant neural network architecture for learning the behavior and properties of complex many-body physical systems.
+- [LieConv](https://github.com/mfinzi/LieConv)  
+Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data
+- [torchmd-net/ET](https://github.com/torchmd/torchmd-net)
+Neural network potentials based on graph neural networks and equivariant transformers
+- [GemNet](https://github.com/TUM-DAML/gemnet_tf)  
+GemNet: Universal Directional Graph Neural Networks for Molecules
+- [equiformer](https://github.com/atomicarchitects/equiformer)  
+Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs
+
 
 ## Semi-Empirical Method
 
