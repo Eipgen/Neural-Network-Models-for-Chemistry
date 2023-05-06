@@ -55,6 +55,27 @@ A neural network potential energy function for use in drug discovery, with chemi
 <br>The Neural Force Field (NFF) code is an API based on SchNet, DimeNet, PaiNN and DANN . It provides an interface to train and evaluate neural networks for force fields. It can also be used as a property predictor that uses both 3D geometries and 2D graph information.
 - [NNPOps](https://github.com/openmm/NNPOps)
 <br>The goal of this project is to promote the use of neural network potentials (NNPs) by providing highly optimized, open source implementations of bottleneck operations that appear in popular potentials.
+- [RuNNer](https://www.uni-goettingen.de/de/software/616512.html)
+<br>A program package for constructing high-dimensional neural network potentials,4G-HDNNPs,3G-HDNNPs.
+- [aenet](https://github.com/atomisticnet/aenet)
+<br>The Atomic Energy NETwork (ænet) package is a collection of tools for the construction and application of atomic interaction potentials based on artificial neural networks.
+- [sGDML](http://www.sgdml.org/)
+<br> Symmetric Gradient Domain Machine Learning
+- [GAP](https://github.com/libAtoms/GAP)
+<br>This package is part of QUantum mechanics and Interatomic Potentials
+- [QUIP](https://github.com/libAtoms/QUIP)
+<br>The QUIP package is a collection of software tools to carry out molecular dynamics simulations. It implements a variety of interatomic potentials and tight binding quantum mechanics, and is also able to call external packages, and serve as plugins to other software such as LAMMPS, CP2K and also the python framework ASE.
+- [NNP-MM](https://github.com/RowleyGroup/NNP-MM)
+<br>NNP/MM embeds a Neural Network Potential into a conventional molecular mechanical (MM) model.
+- [GAMD](https://github.com/BaratiLab/GAMD)
+<br>Data and code for Graph neural network Accelerated Molecular Dynamics.
+- [PFP](https://matlantis.com/)
+<br>Here we report a development of universal NNP called PreFerred Potential (PFP), which is able to handle any combination of 45 elements.
+Particular emphasis is placed on the datasets, which include a diverse set of virtual structures used to attain the universality.
+- [TeaNet](https://codeocean.com/capsule/4358608/tree)
+<br>universal neural network interatomic potential inspired by iterative electronic relaxations.
+- [n2p2](https://github.com/CompPhysVienna/n2p2)
+<br>This repository provides ready-to-use software for high-dimensional neural network potentials in computational physics and chemistry.
 - [Nequip](https://github.com/mir-group/nequip)
 <br>NequIP is an open-source code for building E(3)-equivariant interatomic potentials.
 - [E3NN](https://github.com/e3nn/e3nn)  
@@ -83,27 +104,6 @@ Euclidean neural networks,The aim of this library is to help the development of 
 <br>A pakcages of NN model chemistry, contains Behler-Parrinello with electrostatics, Many Body Expansion Bonds in Molecules NN, Atomwise, Forces, Inductive Charges.
 - [SpookyNet](https://github.com/OUnke/SpookyNet)
 <br>Spookynet: Learning force fields with electronic degrees of freedom and nonlocal effects.
-- [RuNNer](https://www.uni-goettingen.de/de/software/616512.html)
-<br>A program package for constructing high-dimensional neural network potentials,4G-HDNNPs,3G-HDNNPs.
-- [aenet](https://github.com/atomisticnet/aenet)
-<br>The Atomic Energy NETwork (ænet) package is a collection of tools for the construction and application of atomic interaction potentials based on artificial neural networks.
-- [sGDML](http://www.sgdml.org/)
-<br> Symmetric Gradient Domain Machine Learning
-- [GAP](https://github.com/libAtoms/GAP)
-<br>This package is part of QUantum mechanics and Interatomic Potentials
-- [QUIP](https://github.com/libAtoms/QUIP)
-<br>The QUIP package is a collection of software tools to carry out molecular dynamics simulations. It implements a variety of interatomic potentials and tight binding quantum mechanics, and is also able to call external packages, and serve as plugins to other software such as LAMMPS, CP2K and also the python framework ASE.
-- [NNP-MM](https://github.com/RowleyGroup/NNP-MM)
-<br>NNP/MM embeds a Neural Network Potential into a conventional molecular mechanical (MM) model.
-- [GAMD](https://github.com/BaratiLab/GAMD)
-<br>Data and code for Graph neural network Accelerated Molecular Dynamics.
-- [PFP](https://matlantis.com/)
-<br>Here we report a development of universal NNP called PreFerred Potential (PFP), which is able to handle any combination of 45 elements.
-Particular emphasis is placed on the datasets, which include a diverse set of virtual structures used to attain the universality.
-- [TeaNet](https://codeocean.com/capsule/4358608/tree)
-<br>universal neural network interatomic potential inspired by iterative electronic relaxations.
-- [n2p2](https://github.com/CompPhysVienna/n2p2)
-<br>This repository provides ready-to-use software for high-dimensional neural network potentials in computational physics and chemistry.
 - [AIMNET](https://github.com/aiqm/aimnet)  
 This repository contains reference AIMNet implementation along with some examples and menchmarks.
 - [charge_transfer_nnp](https://github.com/pfnet-research/charge_transfer_nnp)  
@@ -143,6 +143,23 @@ Repository for training, testing and developing machine learned force fields usi
 Contains the five equivariant transformer models about the spice datasets(https://github.com/openmm/spice-dataset/releases/tag/1.1). 
 - [sake](https://github.com/choderalab/sake)  
 Spatial Attention Kinetic Networks with E(n)-Equivariance
+- [eqgat](https://github.com/Bayer-Group/eqgat)  
+Pytorch implementation for the manuscript Representation Learning on Biomolecular Structures using Equivariant Graph Attention
+- [phast](https://github.com/vict0rsch/phast) 
+PyTorch implementation for PhAST: Physics-Aware, Scalable and Task-specific GNNs for Accelerated Catalyst Design
+- [GNN-LF](https://github.com/GraphPKU/GNN-LF)  
+Graph Neural Network With Local Frame for Molecular Potential Energy Surface  
+- [Cormorant](https://arxiv.org/abs/1906.04015)  
+We propose Cormorant, a rotationally covariant neural network architecture for learning the behavior and properties of complex many-body physical systems.
+- [LieConv](https://github.com/mfinzi/LieConv)  
+Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data
+- [torchmd-net/ET](https://github.com/torchmd/torchmd-net)
+Neural network potentials based on graph neural networks and equivariant transformers
+- [GemNet](https://github.com/TUM-DAML/gemnet_tf)  
+GemNet: Universal Directional Graph Neural Networks for Molecules
+- [equiformer](https://github.com/atomicarchitects/equiformer)  
+Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs
+
 
 ## Semi-Empirical Method
 
