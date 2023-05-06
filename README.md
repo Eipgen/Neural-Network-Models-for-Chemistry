@@ -153,7 +153,7 @@ Graph Neural Network With Local Frame for Molecular Potential Energy Surface
 We propose Cormorant, a rotationally covariant neural network architecture for learning the behavior and properties of complex many-body physical systems.
 - [LieConv](https://github.com/mfinzi/LieConv)  
 Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data
-- [torchmd-net/ET](https://github.com/torchmd/torchmd-net)
+- [torchmd-net/ET](https://github.com/torchmd/torchmd-net)  
 Neural network potentials based on graph neural networks and equivariant transformers
 - [GemNet](https://github.com/TUM-DAML/gemnet_tf)  
 GemNet: Universal Directional Graph Neural Networks for Molecules
