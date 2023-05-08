@@ -107,7 +107,7 @@ Euclidean neural networks,The aim of this library is to help the development of 
 - [AIMNET](https://github.com/aiqm/aimnet)  
 This repository contains reference AIMNet implementation along with some examples and menchmarks.
 - [charge_transfer_nnp](https://github.com/pfnet-research/charge_transfer_nnp)  
-About Graph neural network potential with charge transfer with neuqip model.
+About Graph neural network potential with charge transfer with nequip model.
 - [AMP](https://amp.readthedocs.io/en/latest/)  
 Amp: A modular approach to machine learning in atomistic simulations(<https://github.com/ulissigroup/amptorch>)
 - [SCFNN](https://github.com/andy90/SCFNN)  
