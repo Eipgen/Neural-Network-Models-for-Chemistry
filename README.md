@@ -159,6 +159,8 @@ Neural network potentials based on graph neural networks and equivariant transfo
 GemNet: Universal Directional Graph Neural Networks for Molecules
 - [equiformer](https://github.com/atomicarchitects/equiformer)  
 Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs
+- [VisNet-LSRM](https://arxiv.org/abs/2304.13542)  
+Inspired by fragmentation-based methods, we propose the Long-Short-Range Message-Passing (LSR-MP) framework as a generalization of the existing equivariant graph neural networks (EGNNs) with the intent to incorporate long-range interactions efficiently and effectively. 
 
 
 ## Semi-Empirical Method
