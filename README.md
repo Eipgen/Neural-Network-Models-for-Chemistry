@@ -163,6 +163,8 @@ Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs
 Inspired by fragmentation-based methods, we propose the Long-Short-Range Message-Passing (LSR-MP) framework as a generalization of the existing equivariant graph neural networks (EGNNs) with the intent to incorporate long-range interactions efficiently and effectively. 
 - [AP-net](https://github.com/zachglick/AP-Net)  
 AP-Net: An atomic-pairwise neural network for smooth and transferable interaction potentials
+- [mace](https://github.com/ACEsuit/mace)
+MACE provides fast and accurate machine learning interatomic potentials with higher order equivariant message passing.
 
 ## Semi-Empirical Method
 
