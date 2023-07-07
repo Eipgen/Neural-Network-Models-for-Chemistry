@@ -194,6 +194,9 @@ Neural networks-based variationallyenhanced sampling
 
 - [Accelerated_sampling_with_autoencoder](https://github.com/weiHelloWorld/accelerated_sampling_with_autoencoder)  
 Accelerated sampling framework with autoencoder-based method
+<!-- markdown-link-check-disable-next-line -->
+- [Enhanced Sampling with Machine Learning: A Review](https://arxiv.org/pdf/2306.09111v2.pdf)  
+we highlight successful strategies like dimensionality reduction, reinforcement learning, and fl ow-based methods. Finally, we discuss open problems at the exciting ML-enhanced MD interface
 
 ## QM/MM Model
 
