@@ -197,7 +197,8 @@ Accelerated sampling framework with autoencoder-based method
 <!-- markdown-link-check-disable-next-line -->
 - [Enhanced Sampling with Machine Learning: A Review](https://arxiv.org/pdf/2306.09111v2.pdf)  
 we highlight successful strategies like dimensionality reduction, reinforcement learning, and fl ow-based methods. Finally, we discuss open problems at the exciting ML-enhanced MD interface
-
+- [mlcolvar](https://github.com/luigibonati/mlcolvar)  
+mlcolvar is a Python library aimed to help design data-driven collective-variables (CVs) for enhanced sampling simulations. 
 ## QM/MM Model
 
 - [NNP-MM](https://github.com/RowleyGroup/NNP-MM)
