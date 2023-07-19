@@ -36,7 +36,7 @@ Deep neural networks for density functional theory Hamiltonian.
 The Kernel Density Functional (KDF) code allows generating ML based DFT functionals.
 - [ML-DFT](https://github.com/MihailBogojeski/ml-dft)  
 ML-DFT: Machine learning for density functional approximations This repository contains the implementation for the kernel ridge regression based density functional approximation method described in the paper "Quantum chemical accuracy from density functional approximations via machine learning".
-- [D4FT](https://arxiv.org/abs/2303.00399)(only arxiv, the github usl seems closed)  
+- [D4FT](https://arxiv.org/abs/2303.00399)  
 this work proposed a deep learning approach to KS-DFT. First, in contrast to the conventional SCF loop, directly minimizing the total energy by reparameterizing the orthogonal constraint as a feed-forward computation. They prove that such an approach has the same expressivity as the SCF method yet reduces the computational complexity from O(N^4) to O(N^3)
 - [SchOrb](https://github.com/atomistic-machine-learning/SchNOrb)
 Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions
@@ -165,6 +165,13 @@ Inspired by fragmentation-based methods, we propose the Long-Short-Range Message
 AP-Net: An atomic-pairwise neural network for smooth and transferable interaction potentials
 - [mace](https://github.com/ACEsuit/mace)  
 MACE provides fast and accurate machine learning interatomic potentials with higher order equivariant message passing.
+- [Unimol+](https://arxiv.org/pdf/2303.16982.pdf)
+Uni-Mol+ first generates a raw 3D molecule conformation from inexpensive methods such as RDKit. Then, the raw conformation is iteratively updated to its target DFT equilibrium conformation using neural networks, and the learned conformation will be used to predict the QC properties.
+- [ColfNet](https://proceedings.mlr.press/v162/du22e/du22e.pdf)
+Inspired by differential geometry and physics, we introduce equivariant local complete frames to graph neural networks, such that tensor information at given orders can be projected onto the frames.
+
+
+  
 
 ## Semi-Empirical Method
 
