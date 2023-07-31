@@ -36,7 +36,7 @@ Deep neural networks for density functional theory Hamiltonian.
 The Kernel Density Functional (KDF) code allows generating ML based DFT functionals.
 - [ML-DFT](https://github.com/MihailBogojeski/ml-dft)  
 ML-DFT: Machine learning for density functional approximations This repository contains the implementation for the kernel ridge regression based density functional approximation method described in the paper "Quantum chemical accuracy from density functional approximations via machine learning".
-- [D4FT](https://arxiv.org/abs/2303.00399)  
+- [D4FT](https://github.com/sail-sg/d4ft)  
 this work proposed a deep learning approach to KS-DFT. First, in contrast to the conventional SCF loop, directly minimizing the total energy by reparameterizing the orthogonal constraint as a feed-forward computation. They prove that such an approach has the same expressivity as the SCF method yet reduces the computational complexity from O(N^4) to O(N^3)
 - [SchOrb](https://github.com/atomistic-machine-learning/SchNOrb)  
 Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions
