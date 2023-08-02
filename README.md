@@ -171,6 +171,8 @@ MACE provides fast and accurate machine learning interatomic potentials with hig
 Uni-Mol+ first generates a raw 3D molecule conformation from inexpensive methods such as RDKit. Then, the raw conformation is iteratively updated to its target DFT equilibrium conformation using neural networks, and the learned conformation will be used to predict the QC properties.
 - [ColfNet](https://proceedings.mlr.press/v162/du22e/du22e.pdf)
 Inspired by differential geometry and physics, we introduce equivariant local complete frames to graph neural networks, such that tensor information at given orders can be projected onto the frames.
+- [AIRS](https://github.com/divelab/AIRS)  
+AIRS is a collection of open-source software tools, datasets, and benchmarks associated with our paper entitled “Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems”.  
 
 
   
