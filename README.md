@@ -190,6 +190,8 @@ AIRS is a collection of open-source software tools, datasets, and benchmarks ass
 
 - [Delfta](https://github.com/josejimenezluna/delfta)
 <br>The DelFTa application is an easy-to-use, open-source toolbox for predicting quantum-mechanical properties of drug-like molecules. Using either ∆-learning (with a GFN2-xTB baseline) or direct-learning (without a baseline), the application accurately approximates DFT reference values (ωB97X-D/def2-SVP).
+- [PYSEQM](https://github.com/lanl/PYSEQM)  
+PYSEQM is a Semi-Empirical Quantum Mechanics package implemented in PyTorch. 
 
 ## Coarse-Grained Method
 
