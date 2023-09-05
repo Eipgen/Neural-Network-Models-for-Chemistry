@@ -2,7 +2,9 @@
 [![Check Markdown links](https://github.com/DiracMD/Neural-Network-Models-for-chemistry/actions/workflows/main.yml/badge.svg)](https://github.com/DiracMD/Neural-Network-Models-for-chemistry/actions/workflows/main.yml)
 
 A collection of Neural Network Models for chemistry
-
+- [Density Functional Theory Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#density-functional-theory-method)
+- [Molecular Force Field Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#molecular-force-field-method)
+- [Semi-Empirical Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#semi-empirical-method)
 ## Density Functional Theory Method
 
 - [DeePKS, DeePHF](https://github.com/deepmodeling/deepks-kit)  
