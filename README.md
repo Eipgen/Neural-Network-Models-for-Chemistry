@@ -177,6 +177,8 @@ AIRS is a collection of open-source software tools, datasets, and benchmarks ass
 Synthetic pre-training for neural-network interatomic potentials
 - [AlF_dimer](https://github.com/onewhich/AlF_dimer)
 a global potential for AlF-AlF dimer
+- [q-AQUA,q-AQUA-pol](https://github.com/jmbowma/q-AQUA,)  
+  CCSD(T) potential for water, interfaced with TTM3-F
   
 
 ## Semi-Empirical Method
