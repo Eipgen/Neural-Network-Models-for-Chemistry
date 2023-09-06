@@ -175,9 +175,9 @@ Uni-Mol+ first generates a raw 3D molecule conformation from inexpensive methods
 Inspired by differential geometry and physics, we introduce equivariant local complete frames to graph neural networks, such that tensor information at given orders can be projected onto the frames.
 - [AIRS](https://github.com/divelab/AIRS)  
 AIRS is a collection of open-source software tools, datasets, and benchmarks associated with our paper entitled “Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems”.
-- [nnp-pre-training](https://github.com/jla-gardner/nnp-pre-training)
+- [nnp-pre-training](https://github.com/jla-gardner/nnp-pre-training) 
 Synthetic pre-training for neural-network interatomic potentials
-- [AlF_dimer](https://github.com/onewhich/AlF_dimer)
+- [AlF_dimer](https://github.com/onewhich/AlF_dimer) 
 a global potential for AlF-AlF dimer
 - [q-AQUA,q-AQUA-pol](https://github.com/jmbowma/q-AQUA)  
   CCSD(T) potential for water, interfaced with TTM3-F
