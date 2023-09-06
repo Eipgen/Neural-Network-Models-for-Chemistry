@@ -149,8 +149,8 @@ Contains the five equivariant transformer models about the spice datasets(https:
 Spatial Attention Kinetic Networks with E(n)-Equivariance
 - [eqgat](https://github.com/Bayer-Group/eqgat)  
 Pytorch implementation for the manuscript Representation Learning on Biomolecular Structures using Equivariant Graph Attention
-- [phast](https://github.com/vict0rsch/phast) 
-PyTorch implementation for PhAST: Physics-Aware, Scalable and Task-specific GNNs for Accelerated Catalyst Design
+- [phast](https://github.com/vict0rsch/phast)
+  PyTorch implementation for PhAST: Physics-Aware, Scalable and Task-specific GNNs for Accelerated Catalyst Design
 - [GNN-LF](https://github.com/GraphPKU/GNN-LF)  
 Graph Neural Network With Local Frame for Molecular Potential Energy Surface  
 - [Cormorant](https://arxiv.org/abs/1906.04015)  
@@ -175,10 +175,10 @@ Uni-Mol+ first generates a raw 3D molecule conformation from inexpensive methods
 Inspired by differential geometry and physics, we introduce equivariant local complete frames to graph neural networks, such that tensor information at given orders can be projected onto the frames.
 - [AIRS](https://github.com/divelab/AIRS)  
 AIRS is a collection of open-source software tools, datasets, and benchmarks associated with our paper entitled “Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems”.
-- [nnp-pre-training](https://github.com/jla-gardner/nnp-pre-training) 
-Synthetic pre-training for neural-network interatomic potentials
-- [AlF_dimer](https://github.com/onewhich/AlF_dimer) 
-a global potential for AlF-AlF dimer
+- [nnp-pre-training](https://github.com/jla-gardner/nnp-pre-training)  
+  Synthetic pre-training for neural-network interatomic potentials
+- [AlF_dimer](https://github.com/onewhich/AlF_dimer)  
+  a global potential for AlF-AlF dimer
 - [q-AQUA,q-AQUA-pol](https://github.com/jmbowma/q-AQUA)  
   CCSD(T) potential for water, interfaced with TTM3-F
   
