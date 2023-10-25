@@ -44,6 +44,8 @@ this work proposed a deep learning approach to KS-DFT. First, in contrast to the
 Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions
 - [CiderPress](https://github.com/mir-group/CiderPress)  
 Tools for training and evaluating CIDER functionals for use in Density Functional Theory calculations.
+- [ML-RPA](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00848)  
+This work demonstrates how machine learning can extend the applicability of the RPA to larger system sizes, time scales, and chemical spaces.
 
 ## Molecular Force Field Method
 
@@ -171,7 +173,7 @@ AP-Net: An atomic-pairwise neural network for smooth and transferable interactio
 MACE provides fast and accurate machine learning interatomic potentials with higher order equivariant message passing.
 - [Unimol+](https://arxiv.org/pdf/2303.16982.pdf)
 Uni-Mol+ first generates a raw 3D molecule conformation from inexpensive methods such as RDKit. Then, the raw conformation is iteratively updated to its target DFT equilibrium conformation using neural networks, and the learned conformation will be used to predict the QC properties.
-- [ColfNet](https://proceedings.mlr.press/v162/du22e/du22e.pdf)
+- [ColfNet](https://proceedings.mlr.press/v162/du22e/du22e.pdf)  
 Inspired by differential geometry and physics, we introduce equivariant local complete frames to graph neural networks, such that tensor information at given orders can be projected onto the frames.
 - [AIRS](https://github.com/divelab/AIRS)  
 AIRS is a collection of open-source software tools, datasets, and benchmarks associated with our paper entitled “Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems”.
@@ -200,7 +202,7 @@ AIRS is a collection of open-source software tools, datasets, and benchmarks ass
 <br>The DelFTa application is an easy-to-use, open-source toolbox for predicting quantum-mechanical properties of drug-like molecules. Using either ∆-learning (with a GFN2-xTB baseline) or direct-learning (without a baseline), the application accurately approximates DFT reference values (ωB97X-D/def2-SVP).
 - [PYSEQM](https://github.com/lanl/PYSEQM)  
 PYSEQM is a Semi-Empirical Quantum Mechanics package implemented in PyTorch.
-- [DFTBML](https://github.com/djyaron/DFTBML) 
+- [DFTBML](https://github.com/djyaron/DFTBML)  
 DFTBML provides a systematic way to parameterize the Density Functional-based Tight Binding (DFTB) semiempirical quantum chemical method for different chemical systems by learning the underlying Hamiltonian parameters rather than fitting the potential energy surface directly.
 
 ## Coarse-Grained Method
