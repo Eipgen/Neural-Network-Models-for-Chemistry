@@ -44,6 +44,7 @@ this work proposed a deep learning approach to KS-DFT. First, in contrast to the
 Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions
 - [CiderPress](https://github.com/mir-group/CiderPress)  
 Tools for training and evaluating CIDER functionals for use in Density Functional Theory calculations.
+<!-- markdown-link-check-disable-next-line -->
 - [ML-RPA](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00848)  
 This work demonstrates how machine learning can extend the applicability of the RPA to larger system sizes, time scales, and chemical spaces.
 
