@@ -186,7 +186,7 @@ AIRS is a collection of open-source software tools, datasets, and benchmarks ass
   CCSD(T) potential for water, interfaced with TTM3-F
 - [LeftNet](https://github.com/yuanqidu/LeftNet)  
   A New Perspective on Building Efficient and Expressive 3D Equivariant Graph Neural Networks
-- [mlp-train](https://github.com/duartegroup/mlp-train)
+- [mlp-train](https://github.com/duartegroup/mlp-train)   
   General machine learning potentials (MLP) training for molecular systems in gas phase and solution
 
 ## Semi-Empirical Method
