@@ -184,9 +184,10 @@ AIRS is a collection of open-source software tools, datasets, and benchmarks ass
   a global potential for AlF-AlF dimer
 - [q-AQUA,q-AQUA-pol](https://github.com/jmbowma/q-AQUA)  
   CCSD(T) potential for water, interfaced with TTM3-F
-- [LeftNet](https://github.com/yuanqidu/LeftNet) 
+- [LeftNet](https://github.com/yuanqidu/LeftNet)  
   A New Perspective on Building Efficient and Expressive 3D Equivariant Graph Neural Networks
-  
+- [mlp-train](https://github.com/duartegroup/mlp-train)
+  General machine learning potentials (MLP) training for molecular systems in gas phase and solution
 
 ## Semi-Empirical Method
 
