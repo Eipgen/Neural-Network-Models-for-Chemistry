@@ -188,7 +188,8 @@ AIRS is a collection of open-source software tools, datasets, and benchmarks ass
   A New Perspective on Building Efficient and Expressive 3D Equivariant Graph Neural Networks
 - [mlp-train](https://github.com/duartegroup/mlp-train)   
   General machine learning potentials (MLP) training for molecular systems in gas phase and solution
-
+- [ARROW-NN](https://github.com/freecurve/interx_arrow-nn_suite)  
+The simulation conda package contains the InterX ARBALEST molecular dynamics simulation software along with all the necessary database files to run ARROW-NN molecular simulations
 ## Semi-Empirical Method
 
 - [OrbNet](https://arxiv.org/abs/2107.00299)
