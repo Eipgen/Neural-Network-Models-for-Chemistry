@@ -189,7 +189,9 @@ AIRS is a collection of open-source software tools, datasets, and benchmarks ass
 - [mlp-train](https://github.com/duartegroup/mlp-train)   
   General machine learning potentials (MLP) training for molecular systems in gas phase and solution
 - [ARROW-NN](https://github.com/freecurve/interx_arrow-nn_suite)  
-The simulation conda package contains the InterX ARBALEST molecular dynamics simulation software along with all the necessary database files to run ARROW-NN molecular simulations
+  The simulation conda package contains the InterX ARBALEST molecular dynamics simulation software along with all the necessary database files to run ARROW-NN molecular simulations
+- [SO3krates with transformer](https://arxiv.org/abs/2309.15126)  
+we propose a transformer architecture called SO3krates that combines sparse equivariant representations 
 ## Semi-Empirical Method
 
 - [OrbNet](https://arxiv.org/abs/2107.00299)
