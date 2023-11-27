@@ -123,6 +123,10 @@ A self consistent field neural network (SCFNN) model.
  JAX MD is a functional and data driven library. Data is stored in arrays or tuples of arrays and functions transform data from one state to another.
 - [EANN](https://github.com/zhangylch/EANN)  
 Embedded Atomic Neural Network (EANN) is a physically-inspired neural network framework. The EANN package is implemented using the PyTorch framework used to train interatomic potentials, dipole moments, transition dipole moments and polarizabilities of various systems.
+- [REANN](https://github.com/zhangylch/REANN)  
+ Recursively embedded atom neural network (REANN) is a PyTorch-based end-to-end multi-functional Deep Neural Network Package for Molecular, Reactive and Periodic Systems.
+- [FIREANN](https://github.com/zhangylch/FIREANN)  
+ Field-induced Recursively embedded atom neural network (FIREANN) is a PyTorch-based end-to-end multi-functional Deep Neural Network Package for Molecular, Reactive and Periodic Systems under the presence of the external field with rigorous rotational equivariance. 
 - [espaloma](https://github.com/choderalab/espaloma)  
 Extensible Surrogate Potential of Ab initio Learned and Optimized by Message-passing Algorithm.
 - [MDsim](https://github.com/kyonofx/MDsim)  
