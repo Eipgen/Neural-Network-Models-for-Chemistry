@@ -91,6 +91,7 @@ Euclidean neural networks,The aim of this library is to help the development of 
 <br>SchNet is a deep learning architecture that allows for spatially and chemically resolved insights into quantum-mechanical observables of atomistic systems.
 - [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack)
 <br>SchNetPack aims to provide accessible atomistic neural networks that can be trained and applied out-of-the-box, while still being extensible to custom atomistic architectures.
+contains `schnet`,`painn`,`filedschnet`,`so3net`
 - [G-SchNet](https://github.com/atomistic-machine-learning/G-SchNet)
 <br>Implementation of G-SchNet - a generative model for 3d molecular structures.
 - [PhysNet](https://github.com/MMunibas/PhysNet)
@@ -156,8 +157,8 @@ Contains the five equivariant transformer models about the spice datasets(https:
 Spatial Attention Kinetic Networks with E(n)-Equivariance
 - [eqgat](https://github.com/Bayer-Group/eqgat)  
 Pytorch implementation for the manuscript Representation Learning on Biomolecular Structures using Equivariant Graph Attention
-- [phast](https://github.com/vict0rsch/phast)
-  PyTorch implementation for PhAST: Physics-Aware, Scalable and Task-specific GNNs for Accelerated Catalyst Design
+- [phast](https://github.com/vict0rsch/phast)  
+PyTorch implementation for PhAST: Physics-Aware, Scalable and Task-specific GNNs for Accelerated Catalyst Design
 - [GNN-LF](https://github.com/GraphPKU/GNN-LF)  
 Graph Neural Network With Local Frame for Molecular Potential Energy Surface  
 - [Cormorant](https://arxiv.org/abs/1906.04015)  
