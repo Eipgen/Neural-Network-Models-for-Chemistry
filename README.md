@@ -196,7 +196,9 @@ AIRS is a collection of open-source software tools, datasets, and benchmarks ass
 - [ARROW-NN](https://github.com/freecurve/interx_arrow-nn_suite)  
   The simulation conda package contains the InterX ARBALEST molecular dynamics simulation software along with all the necessary database files to run ARROW-NN molecular simulations
 - [SO3krates with transformer](https://arxiv.org/abs/2309.15126)  
-we propose a transformer architecture called SO3krates that combines sparse equivariant representations 
+we propose a transformer architecture called SO3krates that combines sparse equivariant representations
+- [AMOEBA+NN](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/655532b7dbd7c8b54b56a3a0/original/incorporating-neural-networks-into-the-amoeba-polarizable-force-field.pdf)  
+It present an integrated non-reactive hybrid model, AMOEBA+NN, which employs the AMOEBA potential for the short- and long-range non-bonded interactions and an NNP to capture the remaining local (covalent) contributions
 ## Semi-Empirical Method
 
 - [OrbNet](https://arxiv.org/abs/2107.00299)
