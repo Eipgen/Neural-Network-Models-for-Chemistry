@@ -7,7 +7,7 @@ A collection of Neural Network Models for chemistry
 - [Semi-Empirical Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#semi-empirical-method)
 - [Coarse-Grained Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Coarse-Grained-Method)
 - [Enhanced Sampling](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Enhanced-Sampling-Method)
-- [QM/MM Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#QM/MM-Model)
+- [QM/MM Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#QMMM-Model)
 ## Density Functional Theory Method
 
 - [DeePKS, DeePHF](https://github.com/deepmodeling/deepks-kit)  
