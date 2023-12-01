@@ -4,7 +4,7 @@
 A collection of Neural Network Models for chemistry
 - [Density Functional Theory Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#density-functional-theory-method)
 - [Molecular Force Field Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#molecular-force-field-method)
-- [Semi-Empirical Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#semi-empirical-method)
+- [Semi-Empirical Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Semi-Empirical-Quantum-Mechanical-Method)
 - [Coarse-Grained Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Coarse-Grained-Method)
 - [Enhanced Sampling](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Enhanced-Sampling-Method)
 - [QM/MM Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#QMMM-Model)
@@ -204,7 +204,7 @@ AIRS is a collection of open-source software tools, datasets, and benchmarks ass
   It present an integrated non-reactive hybrid model, AMOEBA+NN, which employs the AMOEBA potential for the short- and long-range non-bonded interactions and an NNP to capture the remaining local (covalent) contributions
 - [LEIGNN](https://github.com/guaguabujianle/LEIGNN)
   A lightweight equivariant interaction graph neural network (LEIGNN) that can enable accurate and efficient interatomic potential and force predictions in crystals. Rather than relying on higher-order representations, LEIGNN employs a scalar-vector dual representation to encode equivariant feature.
-## Semi-Empirical Method
+## Semi-Empirical Quantum Mechanical Method
 
 - [OrbNet](https://arxiv.org/abs/2107.00299)
 <br>OrbNet Denali: A machine learning potential for biological and organic chemistry with semi-empirical cost and DFT accuracy.
