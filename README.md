@@ -5,6 +5,9 @@ A collection of Neural Network Models for chemistry
 - [Density Functional Theory Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#density-functional-theory-method)
 - [Molecular Force Field Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#molecular-force-field-method)
 - [Semi-Empirical Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#semi-empirical-method)
+- [Coarse-Grained Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Coarse-Grained-Method)
+- [Enhanced Sampling](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Enhanced-Sampling-Method)
+- [QM/MM Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#QM/MM-Model)
 ## Density Functional Theory Method
 
 - [DeePKS, DeePHF](https://github.com/deepmodeling/deepks-kit)  
@@ -242,8 +245,8 @@ mlcolvar is a Python library aimed to help design data-driven collective-variabl
 
 - [NNP-MM](https://github.com/RowleyGroup/NNP-MM)
 <br>NNP/MM embeds a Neural Network Potential into a conventional molecular mechanical (MM) model. We have implemented this using the Custom QM/MM features of NAMD 2.13, which interface NAMD with the TorchANI NNP python library developed by the Roitberg and Isayev groups.
-- [DeeP-HP](https://github.com/TinkerTools/tinker-hp)
-<br>support for neural networks potentials (ANI-2X, DeepMD).
+- [DeeP-HP](https://github.com/TinkerTools/tinker-hp/blob/master/GPU/Deep-HP.md)
+<br> Scalable hybrid deep neural networks/polarizable potentials biomolecular simulations including long-range effects
 
 ## Charge Model
 
