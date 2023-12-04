@@ -206,6 +206,9 @@ AIRS is a collection of open-source software tools, datasets, and benchmarks ass
   It present an integrated non-reactive hybrid model, AMOEBA+NN, which employs the AMOEBA potential for the short- and long-range non-bonded interactions and an NNP to capture the remaining local (covalent) contributions
 - [LEIGNN](https://github.com/guaguabujianle/LEIGNN)
   A lightweight equivariant interaction graph neural network (LEIGNN) that can enable accurate and efficient interatomic potential and force predictions in crystals. Rather than relying on higher-order representations, LEIGNN employs a scalar-vector dual representation to encode equivariant feature.
+- [Arrow NN](https://github.com/freecurve/interx_arrow-nn_suite)  
+  A hybrid wide-coverage intermolecular interaction model consisting of an analytically polarizable force field combined with a short-range neural network correction for the total intermolecular interaction energy. 
+
 ## Semi-Empirical Quantum Mechanical Method
 
 - [OrbNet](https://arxiv.org/abs/2107.00299)
