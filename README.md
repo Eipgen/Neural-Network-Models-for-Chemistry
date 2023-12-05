@@ -208,6 +208,8 @@ AIRS is a collection of open-source software tools, datasets, and benchmarks ass
   A hybrid wide-coverage intermolecular interaction model consisting of an analytically polarizable force field combined with a short-range neural network correction for the total intermolecular interaction energy.
 - [PAMNet](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)  
 PAMNet(Physics-aware Multiplex Graph Neural Network) is an improved version of MXMNet and outperforms state-of-the-art baselines regarding both accuracy and efficiency in diverse tasks including small molecule property prediction, RNA 3D structure prediction, and protein-ligand binding affinity prediction.
+- [AIMNet2](https://github.com/isayevlab/AIMNet2)
+A general-purpose neural netrork potential for organic and element-organic molecules.
 
 ## Semi-Empirical Quantum Mechanical Method
 
