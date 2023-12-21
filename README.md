@@ -87,6 +87,11 @@ Particular emphasis is placed on the datasets, which include a diverse set of vi
 <br>universal neural network interatomic potential inspired by iterative electronic relaxations.
 - [n2p2](https://github.com/CompPhysVienna/n2p2)
 <br>This repository provides ready-to-use software for high-dimensional neural network potentials in computational physics and chemistry.
+- [AIMNET](https://github.com/aiqm/aimnet)  
+This repository contains reference AIMNet implementation along with some examples and menchmarks.
+- [AIMNet2](https://github.com/isayevlab/AIMNet2)  
+A general-purpose neural netrork potential for organic and element-organic molecules.
+### Graph Domain
 - [Nequip](https://github.com/mir-group/nequip)
 <br>NequIP is an open-source code for building E(3)-equivariant interatomic potentials.
 - [E3NN](https://github.com/e3nn/e3nn)  
@@ -114,12 +119,6 @@ contains `schnet`,`painn`,`filedschnet`,`so3net`
 <br>AQML is a mixed Python/Fortran/C++ package, intends to simulate quantum chemistry problems through the use of the fundamental building blocks of larger systems.
 - [TensorMol](https://github.com/jparkhill/TensorMol)
 <br>A pakcages of NN model chemistry, contains Behler-Parrinello with electrostatics, Many Body Expansion Bonds in Molecules NN, Atomwise, Forces, Inductive Charges.
-- [SpookyNet](https://github.com/OUnke/SpookyNet)
-<br>Spookynet: Learning force fields with electronic degrees of freedom and nonlocal effects.
-- [AIMNET](https://github.com/aiqm/aimnet)  
-This repository contains reference AIMNet implementation along with some examples and menchmarks.
-- [AIMNet2](https://github.com/isayevlab/AIMNet2)  
-A general-purpose neural netrork potential for organic and element-organic molecules.
 - [charge_transfer_nnp](https://github.com/pfnet-research/charge_transfer_nnp)  
 About Graph neural network potential with charge transfer with nequip model.
 - [AMP](https://amp.readthedocs.io/en/latest/)  
@@ -210,6 +209,9 @@ AIRS is a collection of open-source software tools, datasets, and benchmarks ass
   A hybrid wide-coverage intermolecular interaction model consisting of an analytically polarizable force field combined with a short-range neural network correction for the total intermolecular interaction energy.
 - [PAMNet](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)  
 PAMNet(Physics-aware Multiplex Graph Neural Network) is an improved version of MXMNet and outperforms state-of-the-art baselines regarding both accuracy and efficiency in diverse tasks including small molecule property prediction, RNA 3D structure prediction, and protein-ligand binding affinity prediction.
+### Transformer Domain
+- [SpookyNet](https://github.com/OUnke/SpookyNet)
+<br>Spookynet: Learning force fields with electronic degrees of freedom and nonlocal effects.
 
 ## Semi-Empirical Quantum Mechanical Method
 
