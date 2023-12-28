@@ -51,7 +51,7 @@ Tools for training and evaluating CIDER functionals for use in Density Functiona
 <!-- markdown-link-check-disable-next-line -->
 - [ML-RPA](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00848)  
 This work demonstrates how machine learning can extend the applicability of the RPA to larger system sizes, time scales, and chemical spaces.
-- [$ΔOF-MLFF](https://pubs.aip.org/aip/jcp/article/159/24/244106/2931521/Kohn-Sham-accuracy-from-orbital-free-density)  
+- [ΔOF-MLFF](https://pubs.aip.org/aip/jcp/article/159/24/244106/2931521/Kohn-Sham-accuracy-from-orbital-free-density)  
 a Δ-machine learning model for obtaining Kohn–Sham accuracy from orbital-free density functional theory (DFT) calculations
 
 ## Molecular Force Field Method
