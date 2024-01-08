@@ -220,7 +220,7 @@ PAMNet(Physics-aware Multiplex Graph Neural Network) is an improved version of M
 
 ## Semi-Empirical Quantum Mechanical Method
 
-- [OrbNet](https://arxiv.org/abs/2107.00299)
+- [OrbNet; OrbNet Denali](https://arxiv.org/abs/2107.00299)
 <br>OrbNet Denali: A machine learning potential for biological and organic chemistry with semi-empirical cost and DFT accuracy.
 
 - [AIQM1](https://doi.org/10.1038/s41467-021-27340-2)
