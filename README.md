@@ -53,6 +53,9 @@ Tools for training and evaluating CIDER functionals for use in Density Functiona
 This work demonstrates how machine learning can extend the applicability of the RPA to larger system sizes, time scales, and chemical spaces.
 - [ΔOF-MLFF](https://pubs.aip.org/aip/jcp/article/159/24/244106/2931521/Kohn-Sham-accuracy-from-orbital-free-density)  
 a Δ-machine learning model for obtaining Kohn–Sham accuracy from orbital-free density functional theory (DFT) calculations
+<!-- markdown-link-check-disable-next-line -->
+- [PairNet](https://doi.org/10.26434/chemrxiv-2023-n1skn) 
+A molecular orbital based machine learning model for predicting accurate CCSD(T) correlation energies. The model, named as PairNet, shows excellent transferability on several public data sets using features inspired by pair natural orbitals(PNOs). 
 
 ## Molecular Force Field Method
 ### Descriptor Domain
