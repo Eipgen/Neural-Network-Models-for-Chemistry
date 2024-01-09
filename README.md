@@ -144,7 +144,7 @@ Embedded Atomic Neural Network (EANN) is a physically-inspired neural network fr
 Extensible Surrogate Potential of Ab initio Learned and Optimized by Message-passing Algorithm.
 - [MDsim](https://github.com/kyonofx/MDsim)  
 Training and simulating MD with ML force fields
-- [ForceNet](https://github.com/Open-Catalyst-Project/ocp/blob/main/ocpmodels/models/forcenet.py)   
+- [ForceNet](https://github.com/Open-Catalyst-Project/ocp)   
 We demonstrate that force-centric GNN models without any explicit physical constraints are able to predict atomic forces more accurately than state-of-the-art energy centric GNN models, while being faster both in training and inference.
 - [DIG](https://github.com/divelab/DIG)  
 A library for graph deep learning research.
