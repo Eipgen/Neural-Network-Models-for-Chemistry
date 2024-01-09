@@ -57,7 +57,7 @@ a Δ-machine learning model for obtaining Kohn–Sham accuracy from orbital-free
 - [PairNet](https://doi.org/10.26434/chemrxiv-2023-n1skn)   
 A molecular orbital based machine learning model for predicting accurate CCSD(T) correlation energies. The model, named as PairNet, shows excellent transferability on several public data sets using features inspired by pair natural orbitals(PNOs).
 ## Green Function
-[DeepGreen](https://arxiv.org/abs/2312.14680)  
+- [DeepGreen](https://arxiv.org/abs/2312.14680)  
 The many-body Green's function provides access to electronic properties beyond density functional theory level in ab inito calculations. It present proof-of-concept benchmark results for both molecules and simple periodic systems, showing that our method is able to provide accurate estimate of physical observables such as energy and density of states based on the predicted Green's function.
 ## Molecular Force Field Method
 ### Descriptor Domain
