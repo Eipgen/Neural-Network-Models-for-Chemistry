@@ -56,6 +56,9 @@ a Δ-machine learning model for obtaining Kohn–Sham accuracy from orbital-free
 <!-- markdown-link-check-disable-next-line -->
 - [PairNet](https://doi.org/10.26434/chemrxiv-2023-n1skn)   
 A molecular orbital based machine learning model for predicting accurate CCSD(T) correlation energies. The model, named as PairNet, shows excellent transferability on several public data sets using features inspired by pair natural orbitals(PNOs).
+- [SPAHM(a,b)](https://github.com/lcmd-epfl/SPAHM-RHO)  
+SPAHM(a,b): encoding the density information from guess Hamiltonian in quantum machine learning representations
+
 ## Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
 The many-body Green's function provides access to electronic properties beyond density functional theory level in ab inito calculations. It present proof-of-concept benchmark results for both molecules and simple periodic systems, showing that our method is able to provide accurate estimate of physical observables such as energy and density of states based on the predicted Green's function.
@@ -67,6 +70,8 @@ The many-body Green's function provides access to electronic properties beyond d
 <br>TorchANI is a pytorch implementation of ANI model.
 - [mdgrad](https://github.com/torchmd/mdgrad/tree/pair)  
 Pytorch differentiable molecular dynamics
+- [PESPIP](https://github.com/PaulLHouston/PESPIP)  
+Mathematica programs for choosing the best basis of permutataionally invariant polynomials for fitting a potential energy surface
 - [Schrodinger-ANI](http://public-sani.onschrodinger.com/)  
 A neural network potential energy function for use in drug discovery, with chemical element support extended from 41% to 94% of druglike molecules based on ChEMBL.
 - [NerualForceFild](https://github.com/learningmatter-mit/NeuralForceField)
@@ -216,9 +221,13 @@ AIRS is a collection of open-source software tools, datasets, and benchmarks ass
   A hybrid wide-coverage intermolecular interaction model consisting of an analytically polarizable force field combined with a short-range neural network correction for the total intermolecular interaction energy.
 - [PAMNet](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)  
 PAMNet(Physics-aware Multiplex Graph Neural Network) is an improved version of MXMNet and outperforms state-of-the-art baselines regarding both accuracy and efficiency in diverse tasks including small molecule property prediction, RNA 3D structure prediction, and protein-ligand binding affinity prediction.
+- [Multi-fidelity GNNs](https://github.com/davidbuterez/multi-fidelity-gnns-for-drug-discovery-and-quantum-mechanics)  
+Multi-fidelity GNNs for drug discovery and quantum mechanics  
 ### Transformer Domain
 - [SpookyNet](https://github.com/OUnke/SpookyNet)
 <br>Spookynet: Learning force fields with electronic degrees of freedom and nonlocal effects.
+- [trip](https://github.com/dellacortelab/trip)  
+Transformer Interatomic Potential (TrIP): a chemically sound potential based on the SE(3)-Transformer 
 
 ## Semi-Empirical Quantum Mechanical Method
 
