@@ -58,7 +58,8 @@ a Δ-machine learning model for obtaining Kohn–Sham accuracy from orbital-free
 A molecular orbital based machine learning model for predicting accurate CCSD(T) correlation energies. The model, named as PairNet, shows excellent transferability on several public data sets using features inspired by pair natural orbitals(PNOs).
 - [SPAHM(a,b)](https://github.com/lcmd-epfl/SPAHM-RHO)  
 SPAHM(a,b): encoding the density information from guess Hamiltonian in quantum machine learning representations
-
+- [GradDFT](https://github.com/XanaduAI/GradDFT)  
+GradDFT is a JAX-based library enabling the differentiable design and experimentation of exchange-correlation functionals using machine learning techniques.
 ## Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
 The many-body Green's function provides access to electronic properties beyond density functional theory level in ab inito calculations. It present proof-of-concept benchmark results for both molecules and simple periodic systems, showing that our method is able to provide accurate estimate of physical observables such as energy and density of states based on the predicted Green's function.
@@ -253,6 +254,17 @@ DFTBML provides a systematic way to parameterize the Density Functional-based Ti
 <br>Coarse graining for molecular dynamics
 - [SchNet-CG](https://arxiv.org/ftp/arxiv/papers/2209/2209.12948.pdf)  
 We explore the application of SchNet models to obtain a CG potential for liquid benzene, investigating the effect of model architecture and hyperparameters on the thermodynamic, dynamical, and structural properties of the simulated CG systems, reporting and discussing challenges encountered and future directions envisioned.
+- [CG-SchNET](https://arxiv.org/pdf/2310.18278.pdf)  
+By combining recent deep learning methods with a large and diverse training set of all-atom protein simulations, we here develop a bottom-up CG force field with chemical transferability, which can be used for extrapolative
+molecular dynamics on new sequences not used during model parametrization.
+- [torchmd-protein-thermodynamics](https://github.com/torchmd/torchmd-protein-thermodynamics)  
+This repository contains code, data and tutarial for reproducing the paper "Machine Learning Coarse-Grained Potentials of Protein Thermodynamics". https://arxiv.org/abs/2212.07492
+- [torchmd-exp](https://github.com/compsciencelab/torchmd-exp) 
+This repository contains a method for training a neural network potential for coarse-grained proteins using unsupervised learning
+- [AICG](https://github.com/jasonzzj97/AICG)  
+Learning coarse-grained force fields for fibrogenesis modeling(https://doi.org/10.1016/j.cpc.2023.108964)
+
+
 
 ## Enhanced Sampling Method
 <!-- markdown-link-check-disable-next-line -->
