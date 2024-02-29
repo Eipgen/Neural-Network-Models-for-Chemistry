@@ -2,14 +2,14 @@
 [![Check Markdown links](https://github.com/DiracMD/Neural-Network-Models-for-chemistry/actions/workflows/main.yml/badge.svg)](https://github.com/DiracMD/Neural-Network-Models-for-chemistry/actions/workflows/main.yml)
 
 A collection of Neural Network Models for chemistry
-- [Density Functional Theory Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#density-functional-theory-method)
+- [Quantum Chemistry Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#quantum-chemistry-method)
 - [Molecular Force Field Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#molecular-force-field-method)
 - [Semi-Empirical Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Semi-Empirical-Quantum-Mechanical-Method)
 - [Coarse-Grained Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Coarse-Grained-Method)
 - [Enhanced Sampling Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Enhanced-Sampling-Method)
 - [QM/MM Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#QMMM-Model)
 - [Charge Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Charge-Model)
-## Density Functional Theory Method
+## Quantum Chemistry Method
 
 - [DeePKS, DeePHF](https://github.com/deepmodeling/deepks-kit)  
 DeePKS-kit is a program to generate accurate energy functionals for quantum chemistry systems, for both perturbative scheme (DeePHF) and self-consistent scheme (DeePKS).
@@ -60,6 +60,8 @@ A molecular orbital based machine learning model for predicting accurate CCSD(T)
 SPAHM(a,b): encoding the density information from guess Hamiltonian in quantum machine learning representations
 - [GradDFT](https://github.com/XanaduAI/GradDFT)  
 GradDFT is a JAX-based library enabling the differentiable design and experimentation of exchange-correlation functionals using machine learning techniques.
+- [lapnet](https://github.com/bytedance/LapNet)  
+A JAX implementation of the algorithm and calculations described in Forward Laplacian: A New Computational Framework for Neural Network-based Variational Monte Carlo.
 ## Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
 The many-body Green's function provides access to electronic properties beyond density functional theory level in ab inito calculations. It present proof-of-concept benchmark results for both molecules and simple periodic systems, showing that our method is able to provide accurate estimate of physical observables such as energy and density of states based on the predicted Green's function.
