@@ -194,8 +194,10 @@ Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs
 Inspired by fragmentation-based methods, we propose the Long-Short-Range Message-Passing (LSR-MP) framework as a generalization of the existing equivariant graph neural networks (EGNNs) with the intent to incorporate long-range interactions efficiently and effectively. 
 - [AP-net](https://github.com/zachglick/AP-Net)  
 AP-Net: An atomic-pairwise neural network for smooth and transferable interaction potentials
-- [mace](https://github.com/ACEsuit/mace)  
+- [MACE](https://github.com/ACEsuit/mace)  
 MACE provides fast and accurate machine learning interatomic potentials with higher order equivariant message passing.
+- [MACE-OFF23](https://github.com/ACEsuit/mace-off)  
+ This repository contains the MACE-OFF23 pre-traained transferable organic force fields. 
 - [Unimol+](https://arxiv.org/pdf/2303.16982.pdf)
 Uni-Mol+ first generates a raw 3D molecule conformation from inexpensive methods such as RDKit. Then, the raw conformation is iteratively updated to its target DFT equilibrium conformation using neural networks, and the learned conformation will be used to predict the QC properties.
 - [ColfNet](https://proceedings.mlr.press/v162/du22e/du22e.pdf)  
