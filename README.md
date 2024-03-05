@@ -288,7 +288,7 @@ mlcolvar is a Python library aimed to help design data-driven collective-variabl
 <br>NNP/MM embeds a Neural Network Potential into a conventional molecular mechanical (MM) model. We have implemented this using the Custom QM/MM features of NAMD 2.13, which interface NAMD with the TorchANI NNP python library developed by the Roitberg and Isayev groups.
 - [DeeP-HP](https://github.com/TinkerTools/tinker-hp/blob/master/GPU/Deep-HP.md)
 <br> Scalable hybrid deep neural networks/polarizable potentials biomolecular simulations including long-range effects
-- [PairF-Net](https://doi.org/10.1002/jcc.27313)  
+- [PairF-Net](https://onlinelibrary.wiley.com/doi/10.1002/jcc.27313)  
  Here, we further develop the PairF-Net model to intrinsically incorporate energy conservation and couple the model to a molecular mechanical (MM) environment within the OpenMM package
 
 ## Charge Model
