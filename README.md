@@ -3,7 +3,7 @@
 
 A collection of Neural Network Models for chemistry
 - [Quantum Chemistry Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#quantum-chemistry-method)
-- [Molecular Force Field Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#molecular-force-field-method)
+- [Force Field Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#force-field-method)
 - [Semi-Empirical Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Semi-Empirical-Quantum-Mechanical-Method)
 - [Coarse-Grained Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Coarse-Grained-Method)
 - [Enhanced Sampling Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Enhanced-Sampling-Method)
@@ -65,7 +65,7 @@ A JAX implementation of the algorithm and calculations described in Forward Lapl
 ## Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
 The many-body Green's function provides access to electronic properties beyond density functional theory level in ab inito calculations. It present proof-of-concept benchmark results for both molecules and simple periodic systems, showing that our method is able to provide accurate estimate of physical observables such as energy and density of states based on the predicted Green's function.
-## Molecular Force Field Method
+## Force Field Method
 ### Descriptor Domain
 - [DeePMD](https://github.com/deepmodeling/deepmd-kit)
 <br>A package designed to minimize the effort required to build deep learning based model of interatomic potential energy and force field and to perform molecular dynamics.
@@ -106,6 +106,8 @@ Particular emphasis is placed on the datasets, which include a diverse set of vi
 This repository contains reference AIMNet implementation along with some examples and menchmarks.
 - [AIMNet2](https://github.com/isayevlab/AIMNet2)  
 A general-purpose neural netrork potential for organic and element-organic molecules.
+- [aevmod](https://github.com/sandialabs/aevmod)  
+This package provides functionality for computing an atomic environment vector (AEV), as well as its Jacobian and Hessian.
 ### Graph Domain
 - [Nequip](https://github.com/mir-group/nequip)
 <br>NequIP is an open-source code for building E(3)-equivariant interatomic potentials.
