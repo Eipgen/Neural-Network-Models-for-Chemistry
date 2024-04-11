@@ -62,6 +62,8 @@ SPAHM(a,b): encoding the density information from guess Hamiltonian in quantum m
 GradDFT is a JAX-based library enabling the differentiable design and experimentation of exchange-correlation functionals using machine learning techniques.
 - [lapnet](https://github.com/bytedance/LapNet)  
 A JAX implementation of the algorithm and calculations described in Forward Laplacian: A New Computational Framework for Neural Network-based Variational Monte Carlo.
+- [M-OFDFT](https://zenodo.org/records/10616893)  
+M-OFDFT is a deep-learning implementation of orbital-free density functional theory that achieves DFT-level accuracy on molecular systems but with lower cost complexity, and can extrapolate to much larger molecules than those seen during training
 ## Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
 The many-body Green's function provides access to electronic properties beyond density functional theory level in ab inito calculations. It present proof-of-concept benchmark results for both molecules and simple periodic systems, showing that our method is able to provide accurate estimate of physical observables such as energy and density of states based on the predicted Green's function.
