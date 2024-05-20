@@ -64,6 +64,8 @@ GradDFT is a JAX-based library enabling the differentiable design and experiment
 A JAX implementation of the algorithm and calculations described in Forward Laplacian: A New Computational Framework for Neural Network-based Variational Monte Carlo.
 - [M-OFDFT](https://zenodo.org/records/10616893)  
 M-OFDFT is a deep-learning implementation of orbital-free density functional theory that achieves DFT-level accuracy on molecular systems but with lower cost complexity, and can extrapolate to much larger molecules than those seen during training
+- [ANN for Schrodinger](https://doi.org/10.26434/chemrxiv-2024-2qw5x)  
+  Artificial neural networks (NN) are universal function approximators and have shown great ability in computing the ground state energy of the electronic Schrödinger equation, yet NN has not established itself as a practical and accurate approach to solve the vibrational Schrödinger equation for realistic polyatomic molecules to obtain vibrational energies and wave functions for the excited states
 ## Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
 The many-body Green's function provides access to electronic properties beyond density functional theory level in ab inito calculations. It present proof-of-concept benchmark results for both molecules and simple periodic systems, showing that our method is able to provide accurate estimate of physical observables such as energy and density of states based on the predicted Green's function.
