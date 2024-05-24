@@ -300,7 +300,9 @@ mlcolvar is a Python library aimed to help design data-driven collective-variabl
 - [PairF-Net](https://onlinelibrary.wiley.com/doi/10.1002/jcc.27313)  
  Here, we further develop the PairF-Net model to intrinsically incorporate energy conservation and couple the model to a molecular mechanical (MM) environment within the OpenMM package
 - [embedding](https://github.com/emedio/embedding)  
- This work presents a variant of an electrostatic embedding scheme that allows the embedding of arbitrary machine learned potentials trained on molecular systems in vacuo. 
+ This work presents a variant of an electrostatic embedding scheme that allows the embedding of arbitrary machine learned potentials trained on molecular systems in vacuo.
+- [field_schnet](https://github.com/atomistic-machine-learning/field_schnet)  
+FieldSchNet provides a deep neural network for modeling the interaction of molecules and external environments as described.
 
 ## Charge Model
 
