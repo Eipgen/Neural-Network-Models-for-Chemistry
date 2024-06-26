@@ -68,6 +68,8 @@ M-OFDFT is a deep-learning implementation of orbital-free density functional the
 <!-- markdown-link-check-disable-next-line -->
 - [ANN for Schrodinger](https://doi.org/10.26434/chemrxiv-2024-2qw5x)  
   Artificial neural networks (NN) are universal function approximators and have shown great ability in computing the ground state energy of the electronic Schrödinger equation, yet NN has not established itself as a practical and accurate approach to solve the vibrational Schrödinger equation for realistic polyatomic molecules to obtain vibrational energies and wave functions for the excited states
+- [equivariant_electron_density](https://github.com/JoshRackers/equivariant_electron_density)  
+  Generate and predict molecular electron densities with Euclidean Neural Networks
 ## Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
 The many-body Green's function provides access to electronic properties beyond density functional theory level in ab inito calculations. It present proof-of-concept benchmark results for both molecules and simple periodic systems, showing that our method is able to provide accurate estimate of physical observables such as energy and density of states based on the predicted Green's function.
