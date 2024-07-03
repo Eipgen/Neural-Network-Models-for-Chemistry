@@ -158,8 +158,6 @@ Embedded Atomic Neural Network (EANN) is a physically-inspired neural network fr
  Recursively embedded atom neural network (REANN) is a PyTorch-based end-to-end multi-functional Deep Neural Network Package for Molecular, Reactive and Periodic Systems.
 - [FIREANN](https://github.com/zhangylch/FIREANN)  
  Field-induced Recursively embedded atom neural network (FIREANN) is a PyTorch-based end-to-end multi-functional Deep Neural Network Package for Molecular, Reactive and Periodic Systems under the presence of the external field with rigorous rotational equivariance. 
-- [espaloma](https://github.com/choderalab/espaloma)  
-Extensible Surrogate Potential of Ab initio Learned and Optimized by Message-passing Algorithm.
 - [MDsim](https://github.com/kyonofx/MDsim)  
 Training and simulating MD with ML force fields
 - [ForceNet](https://github.com/Open-Catalyst-Project/ocp)   
@@ -244,7 +242,13 @@ GPIP: Geometry-enhanced Pre-training on Interatomic Potentials.they propose a ge
 - [SpookyNet](https://github.com/OUnke/SpookyNet)
 <br>Spookynet: Learning force fields with electronic degrees of freedom and nonlocal effects.
 - [trip](https://github.com/dellacortelab/trip)  
-Transformer Interatomic Potential (TrIP): a chemically sound potential based on the SE(3)-Transformer 
+Transformer Interatomic Potential (TrIP): a chemically sound potential based on the SE(3)-Transformer
+
+### empircal force field form
+- [grappa](https://github.com/graeter-group/grappa)  
+  A machine-learned molecular mechanics force field using a deep graph attentional network
+- [espaloma](https://github.com/choderalab/espaloma)  
+Extensible Surrogate Potential of Ab initio Learned and Optimized by Message-passing Algorithm.
 
 ## Semi-Empirical Quantum Mechanical Method
 
