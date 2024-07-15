@@ -259,6 +259,8 @@ Extensible Surrogate Potential of Ab initio Learned and Optimized by Message-pas
 
 - [OrbNet; OrbNet Denali](https://arxiv.org/abs/2107.00299)
 <br>OrbNet Denali: A machine learning potential for biological and organic chemistry with semi-empirical cost and DFT accuracy.
+- [ OrbNet-Equi](https://www.pnas.org/doi/10.1073/pnas.2205221119)  
+INFORMING GEOMETRIC DEEP LEARNING WITH ELECTRONIC INTERACTIONS TO ACCELERATE QUANTUM CHEMISTRY
 
 - [AIQM1](https://doi.org/10.1038/s41467-021-27340-2)
 <br>Artificial intelligence-enhanced quantum chemical method with broad applicability.
