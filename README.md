@@ -70,6 +70,8 @@ M-OFDFT is a deep-learning implementation of orbital-free density functional the
   Artificial neural networks (NN) are universal function approximators and have shown great ability in computing the ground state energy of the electronic Schrödinger equation, yet NN has not established itself as a practical and accurate approach to solve the vibrational Schrödinger equation for realistic polyatomic molecules to obtain vibrational energies and wave functions for the excited states
 - [equivariant_electron_density](https://github.com/JoshRackers/equivariant_electron_density)  
   Generate and predict molecular electron densities with Euclidean Neural Networks
+- [DeePDFT](https://github.com/peterbjorgensen/DeepDFT)  
+This is the official Implementation of the DeepDFT model for charge density prediction. 
 ## Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
 The many-body Green's function provides access to electronic properties beyond density functional theory level in ab inito calculations. It present proof-of-concept benchmark results for both molecules and simple periodic systems, showing that our method is able to provide accurate estimate of physical observables such as energy and density of states based on the predicted Green's function.
@@ -116,6 +118,9 @@ This repository contains reference AIMNet implementation along with some example
 A general-purpose neural netrork potential for organic and element-organic molecules.
 - [aevmod](https://github.com/sandialabs/aevmod)  
 This package provides functionality for computing an atomic environment vector (AEV), as well as its Jacobian and Hessian.
+- [charge3net](https://github.com/AIforGreatGood/charge3net) 
+  Official implementation of ChargeE3Net, introduced in Higher-Order Equivariant Neural Networks for Charge Density Prediction in Materials.
+
 ### Graph Domain
 - [Nequip](https://github.com/mir-group/nequip)
 <br>NequIP is an open-source code for building E(3)-equivariant interatomic potentials.
