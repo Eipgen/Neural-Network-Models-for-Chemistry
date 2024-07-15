@@ -118,8 +118,8 @@ This repository contains reference AIMNet implementation along with some example
 A general-purpose neural netrork potential for organic and element-organic molecules.
 - [aevmod](https://github.com/sandialabs/aevmod)  
 This package provides functionality for computing an atomic environment vector (AEV), as well as its Jacobian and Hessian.
-- [charge3net](https://github.com/AIforGreatGood/charge3net) 
-  Official implementation of ChargeE3Net, introduced in Higher-Order Equivariant Neural Networks for Charge Density Prediction in Materials.
+- [charge3net](https://github.com/AIforGreatGood/charge3net)   
+Official implementation of ChargeE3Net, introduced in Higher-Order Equivariant Neural Networks for Charge Density Prediction in Materials.
 
 ### Graph Domain
 - [Nequip](https://github.com/mir-group/nequip)
