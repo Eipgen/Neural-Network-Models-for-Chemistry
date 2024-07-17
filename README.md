@@ -249,7 +249,7 @@ GPIP: Geometry-enhanced Pre-training on Interatomic Potentials.they propose a ge
 - [trip](https://github.com/dellacortelab/trip)  
 Transformer Interatomic Potential (TrIP): a chemically sound potential based on the SE(3)-Transformer
 
-### empircal force field form
+### Empirical force field
 - [grappa](https://github.com/graeter-group/grappa)  
   A machine-learned molecular mechanics force field using a deep graph attentional network
 - [espaloma](https://github.com/choderalab/espaloma)  
@@ -259,15 +259,14 @@ Extensible Surrogate Potential of Ab initio Learned and Optimized by Message-pas
 
 - [OrbNet; OrbNet Denali](https://arxiv.org/abs/2107.00299)
 <br>OrbNet Denali: A machine learning potential for biological and organic chemistry with semi-empirical cost and DFT accuracy.
-- [ OrbNet-Equi](https://www.pnas.org/doi/10.1073/pnas.2205221119)  
+<!-- markdown-link-check-disable-next-line -->
+- [ OrbNet-Equi](https://doi.org/10.1073/pnas.2205221119)  
 INFORMING GEOMETRIC DEEP LEARNING WITH ELECTRONIC INTERACTIONS TO ACCELERATE QUANTUM CHEMISTRY
-
 - [AIQM1](https://doi.org/10.1038/s41467-021-27340-2)
 <br>Artificial intelligence-enhanced quantum chemical method with broad applicability.
 <!-- markdown-link-check-disable-next-line -->
 - [BpopNN](https://doi.org/10.1021/acs.jctc.0c00217)
 <br>Incorporating Electronic Information into Machine Learning Potential Energy Surfaces via Approaching the Ground-State Electronic Energy as a Function of Atom-Based Electronic Populations.
-
 - [Delfta](https://github.com/josejimenezluna/delfta)
 <br>The DelFTa application is an easy-to-use, open-source toolbox for predicting quantum-mechanical properties of drug-like molecules. Using either ∆-learning (with a GFN2-xTB baseline) or direct-learning (without a baseline), the application accurately approximates DFT reference values (ωB97X-D/def2-SVP).
 - [PYSEQM](https://github.com/lanl/PYSEQM)  
