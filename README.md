@@ -243,6 +243,12 @@ PAMNet(Physics-aware Multiplex Graph Neural Network) is an improved version of M
 Multi-fidelity GNNs for drug discovery and quantum mechanics
 - [GPIP](https://github.com/cuitaoyong/GPIP)  
 GPIP: Geometry-enhanced Pre-training on Interatomic Potentials.they propose a geometric structure learning framework that leverages the unlabeled configurations to improve the performance of MLIPs. Their framework consists of two stages: firstly, using CMD simulations to generate unlabeled configurations of the target molecular system; and secondly, applying geometry-enhanced self-supervised learning techniques, including masking, denoising, and contrastive learning, to capture structural information
+
+- [CHGNet](https://github.com/CederGroupHub/chgnet)  
+A pretrained universal neural network potential for charge-informed atomistic modeling (see publication) 
+- [GPTFF](https://arxiv.org/abs/2402.19327)  
+GPTFF: A high-accuracy out-of-the-box universal AI force field for arbitrary inorganic materials
+
 ### Transformer Domain
 - [SpookyNet](https://github.com/OUnke/SpookyNet)
 <br>Spookynet: Learning force fields with electronic degrees of freedom and nonlocal effects.
