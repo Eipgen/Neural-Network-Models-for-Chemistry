@@ -76,6 +76,10 @@ This is the official Implementation of the DeepDFT model for charge density pred
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
 The many-body Green's function provides access to electronic properties beyond density functional theory level in ab inito calculations. It present proof-of-concept benchmark results for both molecules and simple periodic systems, showing that our method is able to provide accurate estimate of physical observables such as energy and density of states based on the predicted Green's function.
 ## Force Field Method
+
+### Kernel Method
+- [wigner_kernel](https://github.com/lab-cosmo/wigner_kernels.git)  
+  They propose a novel density-based method which involves computing “Wigner kernels”. 
 ### Descriptor Domain
 - [DeePMD](https://github.com/deepmodeling/deepmd-kit)
 <br>A package designed to minimize the effort required to build deep learning based model of interatomic potential energy and force field and to perform molecular dynamics.
