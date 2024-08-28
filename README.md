@@ -135,6 +135,8 @@ Euclidean neural networks,The aim of this library is to help the development of 
 - [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack)
 <br>SchNetPack aims to provide accessible atomistic neural networks that can be trained and applied out-of-the-box, while still being extensible to custom atomistic architectures.
 contains `schnet`,`painn`,`filedschnet`,`so3net`
+- [XequiNet](https://github.com/X1X1010/XequiNet)
+  XequiNet is an equivariant graph neural network for predicting properties of chemical molecules or periodical systems.
 - [G-SchNet](https://github.com/atomistic-machine-learning/G-SchNet)
 <br>Implementation of G-SchNet - a generative model for 3d molecular structures.
 - [PhysNet](https://github.com/MMunibas/PhysNet)
