@@ -254,7 +254,8 @@ GPIP: Geometry-enhanced Pre-training on Interatomic Potentials.they propose a ge
 A pretrained universal neural network potential for charge-informed atomistic modeling (see publication) 
 - [GPTFF](https://arxiv.org/abs/2402.19327)  
 GPTFF: A high-accuracy out-of-the-box universal AI force field for arbitrary inorganic materials
-
+- [rascaline](https://github.com/Luthaf/rascaline)
+Rascaline is a library for the efficient computing of representations for atomistic machine learning also called "descriptors" or "fingerprints". These representations can be used for atomistic machine learning (ml) models including ml potentials, visualization or similarity analysis.
 ### Transformer Domain
 - [SpookyNet](https://github.com/OUnke/SpookyNet)
 <br>Spookynet: Learning force fields with electronic degrees of freedom and nonlocal effects.
