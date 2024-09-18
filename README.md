@@ -57,6 +57,7 @@ a Δ-machine learning model for obtaining Kohn–Sham accuracy from orbital-free
 <!-- markdown-link-check-disable-next-line -->
 - [PairNet](https://doi.org/10.26434/chemrxiv-2023-n1skn)   
 A molecular orbital based machine learning model for predicting accurate CCSD(T) correlation energies. The model, named as PairNet, shows excellent transferability on several public data sets using features inspired by pair natural orbitals(PNOs).
+
 - [SPAHM(a,b)](https://github.com/lcmd-epfl/SPAHM-RHO)  
 SPAHM(a,b): encoding the density information from guess Hamiltonian in quantum machine learning representations
 - [GradDFT](https://github.com/XanaduAI/GradDFT)  
@@ -256,6 +257,9 @@ A pretrained universal neural network potential for charge-informed atomistic mo
 GPTFF: A high-accuracy out-of-the-box universal AI force field for arbitrary inorganic materials
 - [rascaline](https://github.com/Luthaf/rascaline)
 Rascaline is a library for the efficient computing of representations for atomistic machine learning also called "descriptors" or "fingerprints". These representations can be used for atomistic machine learning (ml) models including ml potentials, visualization or similarity analysis.
+<!-- markdown-link-check-disable-next-line -->
+- [PairNet-OPs/PairFE-Net](https://doi.org/10.1039/D4SC01109K)
+In PairFE-Net, an atomic structure is encoded using pairwise nuclear repulsion forces
 ### Transformer Domain
 - [SpookyNet](https://github.com/OUnke/SpookyNet)
 <br>Spookynet: Learning force fields with electronic degrees of freedom and nonlocal effects.
