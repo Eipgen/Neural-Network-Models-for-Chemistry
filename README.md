@@ -290,7 +290,8 @@ INFORMING GEOMETRIC DEEP LEARNING WITH ELECTRONIC INTERACTIONS TO ACCELERATE QUA
 PYSEQM is a Semi-Empirical Quantum Mechanics package implemented in PyTorch.
 - [DFTBML](https://github.com/djyaron/DFTBML)  
 DFTBML provides a systematic way to parameterize the Density Functional-based Tight Binding (DFTB) semiempirical quantum chemical method for different chemical systems by learning the underlying Hamiltonian parameters rather than fitting the potential energy surface directly.
-
+- [mopac-ml](https://github.com/Honza-R/mopac-ml)  
+MOPAC-ML implements the PM6-ML method, a semiempirical quantum-mechanical computational method that augments PM6 with a machine learning (ML) correction. It acts as a wrapper calling a modified version of MOPAC, to which it provides the ML correction.
 ## Coarse-Grained Method
 
 - [cgnet](https://github.com/coarse-graining/cgnet)
