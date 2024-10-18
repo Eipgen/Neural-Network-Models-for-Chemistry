@@ -271,7 +271,8 @@ Transformer Interatomic Potential (TrIP): a chemically sound potential based on 
   A machine-learned molecular mechanics force field using a deep graph attentional network
 - [espaloma](https://github.com/choderalab/espaloma)  
 Extensible Surrogate Potential of Ab initio Learned and Optimized by Message-passing Algorithm.
-
+- [FeNNol](https://github.com/thomasple/FeNNol)  
+FeNNol is a library for building, training and running neural network potentials for molecular simulations. It is based on the JAX library and is designed to be fast and flexible.
 ## Semi-Empirical Quantum Mechanical Method
 
 - [OrbNet; OrbNet Denali](https://arxiv.org/abs/2107.00299)
