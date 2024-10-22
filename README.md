@@ -125,7 +125,8 @@ A general-purpose neural netrork potential for organic and element-organic molec
 This package provides functionality for computing an atomic environment vector (AEV), as well as its Jacobian and Hessian.
 - [charge3net](https://github.com/AIforGreatGood/charge3net)   
 Official implementation of ChargeE3Net, introduced in Higher-Order Equivariant Neural Networks for Charge Density Prediction in Materials.
-
+- [jax-nb](https://github.com/reaxnet/jax-nb)  
+  This is a JAX implementation of Polarizable Charge Equilibrium (PQEq) and DFT-D3 diserpsion correction.
 ### Graph Domain
 - [Nequip](https://github.com/mir-group/nequip)
 <br>NequIP is an open-source code for building E(3)-equivariant interatomic potentials.
