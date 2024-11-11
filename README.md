@@ -15,7 +15,7 @@ A collection of Neural Network Models for chemistry
 DeePKS-kit is a program to generate accurate energy functionals for quantum chemistry systems, for both perturbative scheme (DeePHF) and self-consistent scheme (DeePKS).
 
 - [NeuralXC](https://github.com/semodi/neuralxc)  
-Implementation of a machine learned density functional.
+Implementation of a machine-learned density functional.
 
 - [MOB-ML](https://aip.scitation.org/doi/10.1063/5.0032362)   
 Machine Learning for Molecular Orbital Theory.
@@ -39,11 +39,11 @@ Improving the accuracy of Moller-Plesset perturbation theory with neural network
 - [DeepH-pack](https://github.com/mzjb/DeepH-pack)  
 Deep neural networks for density functional theory Hamiltonian.
 - [kdft](https://gitlab.com/jmargraf/kdf)  
-The Kernel Density Functional (KDF) code allows generating ML based DFT functionals.
+The Kernel Density Functional (KDF) code allows generating ML-based DFT functionals.
 - [ML-DFT](https://github.com/MihailBogojeski/ml-dft)  
 ML-DFT: Machine learning for density functional approximations This repository contains the implementation for the kernel ridge regression based density functional approximation method described in the paper "Quantum chemical accuracy from density functional approximations via machine learning".
 - [D4FT](https://github.com/sail-sg/d4ft)  
-this work proposed a deep learning approach to KS-DFT. First, in contrast to the conventional SCF loop, directly minimizing the total energy by reparameterizing the orthogonal constraint as a feed-forward computation. They prove that such an approach has the same expressivity as the SCF method yet reduces the computational complexity from O(N^4) to O(N^3)
+this work proposed a deep-learning approach to KS-DFT. First, in contrast to the conventional SCF loop, directly minimizing the total energy by reparameterizing the orthogonal constraint as a feed-forward computation. They prove that such an approach has the same expressivity as the SCF method yet reduces the computational complexity from O(N^4) to O(N^3)
 - [SchOrb](https://github.com/atomistic-machine-learning/SchNOrb)  
 Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions
 <!-- markdown-link-check-disable-next-line -->
@@ -68,7 +68,7 @@ A JAX implementation of the algorithm and calculations described in Forward Lapl
 M-OFDFT is a deep-learning implementation of orbital-free density functional theory that achieves DFT-level accuracy on molecular systems but with lower cost complexity, and can extrapolate to much larger molecules than those seen during training
 <!-- markdown-link-check-disable-next-line -->
 - [ANN for Schrodinger](https://doi.org/10.26434/chemrxiv-2024-2qw5x)  
-  Artificial neural networks (NN) are universal function approximators and have shown great ability in computing the ground state energy of the electronic Schrödinger equation, yet NN has not established itself as a practical and accurate approach to solve the vibrational Schrödinger equation for realistic polyatomic molecules to obtain vibrational energies and wave functions for the excited states
+  Artificial neural networks (NN) are universal function approximators and have shown great ability in computing the ground state energy of the electronic Schrödinger equation, yet NN has not established itself as a practical and accurate approach to solving the vibrational Schrödinger equation for realistic polyatomic molecules to obtain vibrational energies and wave functions for the excited states
 - [equivariant_electron_density](https://github.com/JoshRackers/equivariant_electron_density)  
   Generate and predict molecular electron densities with Euclidean Neural Networks
 - [DeePDFT](https://github.com/peterbjorgensen/DeepDFT)  
@@ -91,13 +91,13 @@ The many-body Green's function provides access to electronic properties beyond d
 - [mdgrad](https://github.com/torchmd/mdgrad/tree/pair)  
 Pytorch differentiable molecular dynamics
 - [PESPIP](https://github.com/PaulLHouston/PESPIP)  
-Mathematica programs for choosing the best basis of permutataionally invariant polynomials for fitting a potential energy surface
+Mathematica programs for choosing the best basis of permutational invariant polynomials for fitting a potential energy surface
 - [Schrodinger-ANI](http://public-sani.onschrodinger.com/)  
 A neural network potential energy function for use in drug discovery, with chemical element support extended from 41% to 94% of druglike molecules based on ChEMBL.
 - [NerualForceFild](https://github.com/learningmatter-mit/NeuralForceField)
-<br>The Neural Force Field (NFF) code is an API based on SchNet, DimeNet, PaiNN and DANN . It provides an interface to train and evaluate neural networks for force fields. It can also be used as a property predictor that uses both 3D geometries and 2D graph information.
+<br>The Neural Force Field (NFF) code is an API based on SchNet, DimeNet, PaiNN and DANN. It provides an interface to train and evaluate neural networks for force fields. It can also be used as a property predictor that uses both 3D geometries and 2D graph information.
 - [NNPOps](https://github.com/openmm/NNPOps)
-<br>The goal of this project is to promote the use of neural network potentials (NNPs) by providing highly optimized, open source implementations of bottleneck operations that appear in popular potentials.
+<br>The goal of this project is to promote the use of neural network potentials (NNPs) by providing highly optimized, open-source implementations of bottleneck operations that appear in popular potentials.
 - [RuNNer](https://www.uni-goettingen.de/de/software/616512.html)
 <br>A program package for constructing high-dimensional neural network potentials,4G-HDNNPs,3G-HDNNPs.
 - [aenet](https://github.com/atomisticnet/aenet)
@@ -128,7 +128,7 @@ This package provides functionality for computing an atomic environment vector (
 - [charge3net](https://github.com/AIforGreatGood/charge3net)   
 Official implementation of ChargeE3Net, introduced in Higher-Order Equivariant Neural Networks for Charge Density Prediction in Materials.
 - [jax-nb](https://github.com/reaxnet/jax-nb)  
-  This is a JAX implementation of Polarizable Charge Equilibrium (PQEq) and DFT-D3 diserpsion correction.
+  This is a JAX implementation of Polarizable Charge Equilibrium (PQEq) and DFT-D3 dispersion correction.
 ### Graph Domain
 - [Nequip](https://github.com/mir-group/nequip)
 <br>NequIP is an open-source code for building E(3)-equivariant interatomic potentials.
@@ -140,7 +140,7 @@ Euclidean neural networks,The aim of this library is to help the development of 
 <br>SchNetPack aims to provide accessible atomistic neural networks that can be trained and applied out-of-the-box, while still being extensible to custom atomistic architectures.
 contains `schnet`,`painn`,`filedschnet`,`so3net`
 - [XequiNet](https://github.com/X1X1010/XequiNet)
-  XequiNet is an equivariant graph neural network for predicting properties of chemical molecules or periodical systems.
+  XequiNet is an equivariant graph neural network for predicting the properties of chemical molecules or periodical systems.
 - [G-SchNet](https://github.com/atomistic-machine-learning/G-SchNet)
 <br>Implementation of G-SchNet - a generative model for 3d molecular structures.
 - [PhysNet](https://github.com/MMunibas/PhysNet)
