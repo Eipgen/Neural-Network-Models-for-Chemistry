@@ -252,7 +252,9 @@ PAMNet(Physics-aware Multiplex Graph Neural Network) is an improved version of M
 - [Multi-fidelity GNNs](https://github.com/davidbuterez/multi-fidelity-gnns-for-drug-discovery-and-quantum-mechanics)  
 Multi-fidelity GNNs for drug discovery and quantum mechanics
 - [GPIP](https://github.com/cuitaoyong/GPIP)  
-GPIP: Geometry-enhanced Pre-training on Interatomic Potentials.they propose a geometric structure learning framework that leverages the unlabeled configurations to improve the performance of MLIPs. Their framework consists of two stages: firstly, using CMD simulations to generate unlabeled configurations of the target molecular system; and secondly, applying geometry-enhanced self-supervised learning techniques, including masking, denoising, and contrastive learning, to capture structural information
+GPIP: Geometry-enhanced Pre-training on Interatomic Potentials.they propose a geometric structure learning framework that leverages the unlabeled configurations to improve the performance of MLIPs. Their framework consists of two stages: firstly, using CMD simulations to generate unlabeled configurations of the target molecular system; and secondly, applying geometry-enhanced self-supervised learning techniques, including masking, denoising, and contrastive learning, to capture structural information 
+- [ictp](https://github.com/nec-research/ictp)  
+Official repository for the paper "Higher Rank Irreducible Cartesian Tensors for Equivariant Message Passing". It is built upon the ALEBREW repository and implements irreducible Cartesian tensors and their products.
 
 - [CHGNet](https://github.com/CederGroupHub/chgnet)  
 A pretrained universal neural network potential for charge-informed atomistic modeling (see publication) 
