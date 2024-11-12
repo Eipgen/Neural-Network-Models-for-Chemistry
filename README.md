@@ -75,6 +75,8 @@ M-OFDFT is a deep-learning implementation of orbital-free density functional the
 This is the official Implementation of the DeepDFT model for charge density prediction.
 - [DFA_recommeder](https://github.com/hjkgrp/dfa_recommender)  
   System-specific density functional recommender
+- [EG-XC](https://arxiv.org/pdf/2410.07972v1)  
+The accuracy of density functional theory hinges on the approximation of nonlocal contributions to the exchange-correlation (XC) functional. To date, machine-learned and human-designed approximations suffer from insufficient accuracy, limited scalability, or dependence on costly reference data. To address these issues, we introduce Equivariant Graph Exchange Correlation (EG-XC), a novel non-local XC functional based on equivariant graph neural network
 ## Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
 The many-body Green's function provides access to electronic properties beyond density functional theory level in ab inito calculations. It present proof-of-concept benchmark results for both molecules and simple periodic systems, showing that our method is able to provide accurate estimate of physical observables such as energy and density of states based on the predicted Green's function.
