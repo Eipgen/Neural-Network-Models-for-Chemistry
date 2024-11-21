@@ -77,6 +77,8 @@ This is the official Implementation of the DeepDFT model for charge density pred
   System-specific density functional recommender
 - [EG-XC](https://arxiv.org/pdf/2410.07972v1)  
 The accuracy of density functional theory hinges on the approximation of nonlocal contributions to the exchange-correlation (XC) functional. To date, machine-learned and human-designed approximations suffer from insufficient accuracy, limited scalability, or dependence on costly reference data. To address these issues, we introduce Equivariant Graph Exchange Correlation (EG-XC), a novel non-local XC functional based on equivariant graph neural network
+- [scdp](https://github.com/kyonofx/scdp)  
+Machine learning methods are promising in significantly accelerating charge density prediction, yet existing approaches either lack accuracy or scalability. We propose a recipe that can achieve both. In particular, they identify three key ingredients: (1) representing the charge density with atomic and virtual orbitals (spherical fields centered at atom/virtual coordinates); (2) using expressive and learnable orbital basis sets (basis function for the spherical fields); and (3) using high-capacity equivariant neural network architecture
 ## Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
 The many-body Green's function provides access to electronic properties beyond density functional theory level in ab inito calculations. It present proof-of-concept benchmark results for both molecules and simple periodic systems, showing that our method is able to provide accurate estimate of physical observables such as energy and density of states based on the predicted Green's function.
