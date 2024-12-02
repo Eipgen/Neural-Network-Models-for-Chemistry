@@ -38,6 +38,8 @@ JAX-DFT implements one-dimensional density functional theory (DFT) in JAX. It us
 Improving the accuracy of Moller-Plesset perturbation theory with neural networks
 - [DeepH-pack](https://github.com/mzjb/DeepH-pack)  
 Deep neural networks for density functional theory Hamiltonian.
+-[DeepH-E3](https://github.com/Xiaoxun-Gong/DeepH-E3)  
+General framework for E(3)-equivariant neural network representation of density functional theory Hamiltonian
 - [kdft](https://gitlab.com/jmargraf/kdf)  
 The Kernel Density Functional (KDF) code allows generating ML-based DFT functionals.
 - [ML-DFT](https://github.com/MihailBogojeski/ml-dft)  
