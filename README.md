@@ -294,6 +294,9 @@ FeNNol is a library for building, training and running neural network potentials
 <!-- markdown-link-check-disable-next-line -->
 - [ OrbNet-Equi](https://doi.org/10.1073/pnas.2205221119)  
 INFORMING GEOMETRIC DEEP LEARNING WITH ELECTRONIC INTERACTIONS TO ACCELERATE QUANTUM CHEMISTRY
+- [OrbNet-Spin](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_214.pdf)  
+OrbNet-Spin incorporates a spin-polarized treatment into the underlying semiempirical quantum mechanics orbital featurization and adjusts the model architecture accordingly while maintaining the geometrical constraints.
+  
 - [AIQM1](https://doi.org/10.1038/s41467-021-27340-2)
 <br>Artificial intelligence-enhanced quantum chemical method with broad applicability.
 <!-- markdown-link-check-disable-next-line -->
