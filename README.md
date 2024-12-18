@@ -16,7 +16,7 @@ DeePKS-kit is a program to generate accurate energy functionals for quantum chem
 
 - [NeuralXC](https://github.com/semodi/neuralxc)  
 Implementation of a machine-learned density functional.
-
+<!-- markdown-link-check-disable-next-line -->
 - [MOB-ML](https://aip.scitation.org/doi/10.1063/5.0032362)   
 Machine Learning for Molecular Orbital Theory.
 
@@ -54,6 +54,7 @@ Tools for training and evaluating CIDER functionals for use in Density Functiona
 <!-- markdown-link-check-disable-next-line -->
 - [ML-RPA](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00848)  
 This work demonstrates how machine learning can extend the applicability of the RPA to larger system sizes, time scales, and chemical spaces.
+<!-- markdown-link-check-disable-next-line -->
 - [ΔOF-MLFF](https://pubs.aip.org/aip/jcp/article/159/24/244106/2931521/Kohn-Sham-accuracy-from-orbital-free-density)  
 a Δ-machine learning model for obtaining Kohn–Sham accuracy from orbital-free density functional theory (DFT) calculations
 <!-- markdown-link-check-disable-next-line -->
@@ -101,6 +102,7 @@ The many-body Green's function provides access to electronic properties beyond d
 Pytorch differentiable molecular dynamics
 - [PESPIP](https://github.com/PaulLHouston/PESPIP)  
 Mathematica programs for choosing the best basis of permutational invariant polynomials for fitting a potential energy surface
+<!-- markdown-link-check-disable-next-line -->
 - [Schrodinger-ANI](http://public-sani.onschrodinger.com/)  
 A neural network potential energy function for use in drug discovery, with chemical element support extended from 41% to 94% of druglike molecules based on ChEMBL.
 - [NerualForceFild](https://github.com/learningmatter-mit/NeuralForceField)
