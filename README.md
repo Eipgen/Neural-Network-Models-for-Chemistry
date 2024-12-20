@@ -356,7 +356,8 @@ mlcolvar is a Python library aimed to help design data-driven collective-variabl
  This work presents a variant of an electrostatic embedding scheme that allows the embedding of arbitrary machine learned potentials trained on molecular systems in vacuo.
 - [field_schnet](https://github.com/atomistic-machine-learning/field_schnet)  
 FieldSchNet provides a deep neural network for modeling the interaction of molecules and external environments as described.
-
+- [MLMM](https://github.com/MALBECC/MLMM-embeddings-assessment-paper)  
+  This repository contains data and software regarding the paper submited to JCIM, entitled "Assessment of embedding schemes in a hybrid machine learning/classical potentials (ML/MM) approach".
 ## Charge Model
 
 - [gimlet](https://github.com/choderalab/gimlet)  
