@@ -219,7 +219,9 @@ We propose Cormorant, a rotationally covariant neural network architecture for l
 - [LieConv](https://github.com/mfinzi/LieConv)  
 Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data
 - [torchmd-net/ET](https://github.com/torchmd/torchmd-net)  
-Neural network potentials based on graph neural networks and equivariant transformers
+Neural network potentials based on graph neural networks and equivariant transformers  
+- [torchmd-net/TensorNet+0.1S](https://github.com/torchmd/torchmd-net)  
+  On the Inclusion of Charge and Spin States in Cartesian Tensor Neural Network Potentials
 - [GemNet](https://github.com/TUM-DAML/gemnet_tf)  
 GemNet: Universal Directional Graph Neural Networks for Molecules
 - [equiformer](https://github.com/atomicarchitects/equiformer)  
