@@ -278,6 +278,9 @@ Rascaline is a library for the efficient computing of representations for atomis
 <!-- markdown-link-check-disable-next-line -->
 - [PairNet-OPs/PairFE-Net](https://doi.org/10.1039/D4SC01109K)  
 In PairFE-Net, an atomic structure is encoded using pairwise nuclear repulsion forces
+
+- [bamboo](https://github.com/bytedance/bamboo)  
+ByteDance AI Molecular Simulation BOOster (BAMBOO)
 ### Transformer Domain
 - [SpookyNet](https://github.com/OUnke/SpookyNet)
 <br>Spookynet: Learning force fields with electronic degrees of freedom and nonlocal effects.
