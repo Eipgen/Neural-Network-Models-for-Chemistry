@@ -286,6 +286,8 @@ ByteDance AI Molecular Simulation BOOster (BAMBOO)
 <br>Spookynet: Learning force fields with electronic degrees of freedom and nonlocal effects.
 - [trip](https://github.com/dellacortelab/trip)  
 Transformer Interatomic Potential (TrIP): a chemically sound potential based on the SE(3)-Transformer
+- [e3x](https://github.com/google-research/e3x)  
+E3x is a JAX library for constructing efficient E(3)-equivariant deep learning architectures built on top of Flax. The goal is to provide common neural network building blocks for E(3)-equivariant architectures to make the development of models operating on three-dimensional data (point clouds, polygon meshes, etc.) easier.
 
 ### Empirical force field
 - [grappa](https://github.com/graeter-group/grappa)  
