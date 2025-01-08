@@ -84,6 +84,8 @@ The accuracy of density functional theory hinges on the approximation of nonloca
 Machine learning methods are promising in significantly accelerating charge density prediction, yet existing approaches either lack accuracy or scalability. They  propose a recipe that can achieve both. In particular, they identify three key ingredients: (1) representing the charge density with atomic and virtual orbitals (spherical fields centered at atom/virtual coordinates); (2) using expressive and learnable orbital basis sets (basis function for the spherical fields); and (3) using high-capacity equivariant neural network architecture
 - [physics-informed-DFT](https://github.com/TheorChemGroup/physics-informed-DFT)  
 We have developed an approach for physics-informed training of flexible empirical density functionals. In this approach, the “physics knowledge” is transferred from PBE, or any other exact-constraints-based functional, using local exchange−correlation energy density regularization, i.e., by adding its local energies into the training set
+- [SchrodingerNet](https://github.com/zhangylch/SchrodingerNet)   
+ SchrödingerNet offers a novel approach to solving the full electronic-nuclear Schrödinger equation (SE) by defining a custom loss function designed to equalize local energies throughout the system.
 
 ## Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
