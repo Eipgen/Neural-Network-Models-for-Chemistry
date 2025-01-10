@@ -11,6 +11,15 @@ A collection of Neural Network Models for chemistry
 - [Charge Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Charge-Model)
 ## Quantum Chemistry Method
 
+- [Neural Pfaffian](https://github.com/n-gao/neural-pfaffian)  
+Generailzed neural wave functions for arbitrary molecular structures via Pfaffians.
+- [Globe](https://github.com/n-gao/globe)  
+Generalized neural wave functions for different compounds in biochemistry.
+- [PESNet, PlaNet](https://github.com/n-gao/pesnet)  
+Ab-Initio Potential Energy Surfaces with neural-network wave functions within the variational Monte Carlo framework.
+- [folx](https://github.com/microsoft/folx)  
+A Forward Laplacian implementation in JAX that works out-of-the-box by tracing your functions.
+
 - [DeePKS, DeePHF](https://github.com/deepmodeling/deepks-kit)  
 DeePKS-kit is a program to generate accurate energy functionals for quantum chemistry systems, for both perturbative scheme (DeePHF) and self-consistent scheme (DeePKS).
 
