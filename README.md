@@ -19,6 +19,8 @@ Generalized neural wave functions for different compounds in biochemistry.
 Ab-Initio Potential Energy Surfaces with neural-network wave functions within the variational Monte Carlo framework.
 - [folx](https://github.com/microsoft/folx)  
 A Forward Laplacian implementation in JAX that works out-of-the-box by tracing your functions.
+- [netket](https://github.com/netket/netket)  
+The Machine-Learning toolbox for Quantum Physics.
 
 - [DeePKS, DeePHF](https://github.com/deepmodeling/deepks-kit)  
 DeePKS-kit is a program to generate accurate energy functionals for quantum chemistry systems, for both perturbative scheme (DeePHF) and self-consistent scheme (DeePKS).
