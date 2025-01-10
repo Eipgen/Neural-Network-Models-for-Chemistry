@@ -86,6 +86,8 @@ Machine learning methods are promising in significantly accelerating charge dens
 We have developed an approach for physics-informed training of flexible empirical density functionals. In this approach, the “physics knowledge” is transferred from PBE, or any other exact-constraints-based functional, using local exchange−correlation energy density regularization, i.e., by adding its local energies into the training set
 - [SchrodingerNet](https://github.com/zhangylch/SchrodingerNet)   
  SchrödingerNet offers a novel approach to solving the full electronic-nuclear Schrödinger equation (SE) by defining a custom loss function designed to equalize local energies throughout the system.
+- [qmlearn](https://gitlab.com/pavanello-research-group/qmlearn)  
+  Quantum Machine Learning by learning one-body reduced density matrices in the AO basis.
 
 ## Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
