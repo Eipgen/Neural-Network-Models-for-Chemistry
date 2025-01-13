@@ -26,8 +26,6 @@ Pushing the Frontiers of Density Functionals by Solving the Fractional Electron 
 Completing density functional theory by machine-learning hidden messages from molecules.
 - [FemiNet](https://github.com/deepmind/ferminet)  
 FermiNet is a neural network for learning highly accurate ground state wavefunctions of atoms and molecules using a variational Monte Carlo approach.
-- [DeePQMC](https://github.com/deepqmc/deepqmc)  
-DeepQMC implements variational quantum Monte Carlo for electrons in molecules, using deep neural networks written in PyTorch as trial wave functions.
 - [PauliNet](https://www.nature.com/articles/s41557-020-0544-y#Bib1)  
 PauliNet builds upon HF or CASSCF orbitals as a physically meaningful baseline and takes a neural network approach to the SJB wavefunction in order tocorrect this baseline towards a high-accuracy solution.
 - [DeePErwin](https://github.com/mdsunivie/deeperwin)  
@@ -88,10 +86,19 @@ We have developed an approach for physics-informed training of flexible empirica
  SchrödingerNet offers a novel approach to solving the full electronic-nuclear Schrödinger equation (SE) by defining a custom loss function designed to equalize local energies throughout the system.
 - [qmlearn](https://gitlab.com/pavanello-research-group/qmlearn)  
   Quantum Machine Learning by learning one-body reduced density matrices in the AO basis.
+### Quantum Monte Carlo
+- [DeePQMC](https://github.com/deepqmc/deepqmc)  
+DeepQMC implements variational quantum Monte Carlo for electrons in molecules, using deep neural networks written in PyTorch as trial wave functions.
 
-## Green Function
+
+### Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
 The many-body Green's function provides access to electronic properties beyond density functional theory level in ab inito calculations. It present proof-of-concept benchmark results for both molecules and simple periodic systems, showing that our method is able to provide accurate estimate of physical observables such as energy and density of states based on the predicted Green's function.
+## Quantum Monte Carlo
+
+
+
+
 ## Force Field Method
 
 ### Kernel Method
