@@ -301,6 +301,7 @@ Transformer Interatomic Potential (TrIP): a chemically sound potential based on 
 E3x is a JAX library for constructing efficient E(3)-equivariant deep learning architectures built on top of Flax. The goal is to provide common neural network building blocks for E(3)-equivariant architectures to make the development of models operating on three-dimensional data (point clouds, polygon meshes, etc.) easier.
 
 ### Empirical force field
+#### with SQM feature
 - [grappa](https://github.com/graeter-group/grappa)  
   A machine-learned molecular mechanics force field using a deep graph attentional network
 - [espaloma](https://github.com/choderalab/espaloma)  
@@ -317,22 +318,27 @@ In this study, we address this issue usinga modern data-driven approach, develop
 - [ OrbNet-Equi](https://doi.org/10.1073/pnas.2205221119)  
 INFORMING GEOMETRIC DEEP LEARNING WITH ELECTRONIC INTERACTIONS TO ACCELERATE QUANTUM CHEMISTRY
 <!-- markdown-link-check-disable-next-line -->
-- [OrbNet-Spin](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_214.pdf)  
+- [OrbNet-Spin](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_214.pdf)   
 OrbNet-Spin incorporates a spin-polarized treatment into the underlying semiempirical quantum mechanics orbital featurization and adjusts the model architecture accordingly while maintaining the geometrical constraints.
-  
-- [AIQM1](https://doi.org/10.1038/s41467-021-27340-2)
+- [EHM-ML](https://github.com/aiqm/EHM-ML) 
+Machine Learned Hückel Theory: Interfacing Physics and Deep Neural Networks. The Hückel Hamiltonian is an incredibly simple tight-binding model known for its ability to capture qualitative physics phenomena arising from electron interactions in molecules and materials.
+- [DFTBML](https://github.com/djyaron/DFTBML)  
+DFTBML provides a systematic way to parameterize the Density Functional-based Tight Binding (DFTB) semiempirical quantum chemical method for different chemical systems by learning the underlying Hamiltonian parameters rather than fitting the potential energy surface directly.
+#### without SQM fearure
+- [AIQM1, AIQM2](https://doi.org/10.1038/s41467-021-27340-2) 
 <br>Artificial intelligence-enhanced quantum chemical method with broad applicability.
 <!-- markdown-link-check-disable-next-line -->
-- [BpopNN](https://doi.org/10.1021/acs.jctc.0c00217)
+- [BpopNN](https://doi.org/10.1021/acs.jctc.0c00217) 
 <br>Incorporating Electronic Information into Machine Learning Potential Energy Surfaces via Approaching the Ground-State Electronic Energy as a Function of Atom-Based Electronic Populations.
-- [Delfta](https://github.com/josejimenezluna/delfta)
+- [Delfta](https://github.com/josejimenezluna/delfta) 
 <br>The DelFTa application is an easy-to-use, open-source toolbox for predicting quantum-mechanical properties of drug-like molecules. Using either ∆-learning (with a GFN2-xTB baseline) or direct-learning (without a baseline), the application accurately approximates DFT reference values (ωB97X-D/def2-SVP).
 - [PYSEQM](https://github.com/lanl/PYSEQM)  
 PYSEQM is a Semi-Empirical Quantum Mechanics package implemented in PyTorch.
-- [DFTBML](https://github.com/djyaron/DFTBML)  
-DFTBML provides a systematic way to parameterize the Density Functional-based Tight Binding (DFTB) semiempirical quantum chemical method for different chemical systems by learning the underlying Hamiltonian parameters rather than fitting the potential energy surface directly.
-- [mopac-ml](https://github.com/Honza-R/mopac-ml)  
+- [PM6-ML](https://github.com/Honza-R/mopac-ml)  
 MOPAC-ML implements the PM6-ML method, a semiempirical quantum-mechanical computational method that augments PM6 with a machine learning (ML) correction. It acts as a wrapper calling a modified version of MOPAC, to which it provides the ML correction.
+- [xpainn@xTB]((https://github.com/X1X1010/XequiNet)  
+A model can deal with optimization, and frequency prediction
+
 ## Coarse-Grained Method
 
 - [cgnet](https://github.com/coarse-graining/cgnet)
