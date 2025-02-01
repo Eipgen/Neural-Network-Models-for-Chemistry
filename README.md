@@ -18,7 +18,7 @@ DeePKS-kit is a program to generate accurate energy functionals for quantum chem
 Implementation of a machine-learned density functional.
 <!-- markdown-link-check-disable-next-line -->
 - [MOB-ML](https://aip.scitation.org/doi/10.1063/5.0032362)   
-Machine Learning for Molecular Orbital Theory.
+Machine Learning for Molecular Orbital Theory, they offer analytic gradient.
 
 - [DM21](https://github.com/deepmind/deepmind-research/tree/master/density_functional_approximation_dm21)  
 Pushing the Frontiers of Density Functionals by Solving the Fractional Electron Problem.
