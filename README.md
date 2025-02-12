@@ -303,7 +303,7 @@ E3x is a JAX library for constructing efficient E(3)-equivariant deep learning a
   EScAIP: Efficiently Scaled Attention Interatomic Potential. 
 
 ### Empirical force field
-#### with SQM feature
+
 - [grappa](https://github.com/graeter-group/grappa)  
   A machine-learned molecular mechanics force field using a deep graph attentional network
 - [espaloma](https://github.com/choderalab/espaloma)  
@@ -313,7 +313,7 @@ FeNNol is a library for building, training and running neural network potentials
 - [ByteFF](https://arxiv.org/abs/2408.12817)  
 In this study, we address this issue usinga modern data-driven approach, developing ByteFF, an Amber-compatible force fi eld for drug-like molecules. To create ByteFF, we generated an expansive and highly diverse molecular dataset at the B3LYP-D3(BJ)/DZVP level of theory. This dataset includes 2.4 million optimized molecular fragment geometries with analytical Hessian matrices, along with 3.2 million torsion profiles
 ## Semi-Empirical Quantum Mechanical Method
-
+#### with SQM feature
 - [OrbNet; OrbNet Denali](https://arxiv.org/abs/2107.00299)
 <br>OrbNet Denali: A machine learning potential for biological and organic chemistry with semi-empirical cost and DFT accuracy.
 <!-- markdown-link-check-disable-next-line -->
