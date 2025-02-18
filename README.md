@@ -86,6 +86,8 @@ We have developed an approach for physics-informed training of flexible empirica
  SchrödingerNet offers a novel approach to solving the full electronic-nuclear Schrödinger equation (SE) by defining a custom loss function designed to equalize local energies throughout the system.
 - [qmlearn](https://gitlab.com/pavanello-research-group/qmlearn)  
   Quantum Machine Learning by learning one-body reduced density matrices in the AO basis.
+- [Multi-task-electronic](https://github.com/htang113/Multi-task-electronic)
+  This package provides a python realization of the multi-task EGNN (equivariant graph neural network) for molecular electronic structure described in the paper "Multi-task learning for molecular electronic structure approaching coupled-cluster accuracy".
 ### Quantum Monte Carlo
 - [DeePQMC](https://github.com/deepqmc/deepqmc)  
 DeepQMC implements variational quantum Monte Carlo for electrons in molecules, using deep neural networks written in PyTorch as trial wave functions.
