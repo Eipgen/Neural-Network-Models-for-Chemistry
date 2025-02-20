@@ -294,6 +294,8 @@ In PairFE-Net, an atomic structure is encoded using pairwise nuclear repulsion f
 
 - [bamboo](https://github.com/bytedance/bamboo)  
 ByteDance AI Molecular Simulation BOOster (BAMBOO)
+- [cace](https://github.com/BingqingCheng/cace)  
+The Cartesian Atomic Cluster Expansion (CACE) is a new approach for developing machine learning interatomic potentials. This method utilizes Cartesian coordinates to provide a complete description of atomic environments, maintaining interaction body orders. It integrates low-dimensional embeddings of chemical elements with inter-atomic message passing.
 ### Transformer Domain
 - [SpookyNet](https://github.com/OUnke/SpookyNet)
 <br>Spookynet: Learning force fields with electronic degrees of freedom and nonlocal effects.
