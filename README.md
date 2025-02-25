@@ -342,7 +342,7 @@ DFTBML provides a systematic way to parameterize the Density Functional-based Ti
 PYSEQM is a Semi-Empirical Quantum Mechanics package implemented in PyTorch.
 - [PM6-ML](https://github.com/Honza-R/mopac-ml)  
 MOPAC-ML implements the PM6-ML method, a semiempirical quantum-mechanical computational method that augments PM6 with a machine learning (ML) correction. It acts as a wrapper calling a modified version of MOPAC, to which it provides the ML correction.
-- [xpainn@xTB](https://github.com/X1X1010/XequiNet)
+- [XpaiNN@xTB](https://github.com/X1X1010/XequiNet)  
 A model can deal with optimization, and frequency prediction
 
 ## Coarse-Grained Method
