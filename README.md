@@ -177,7 +177,7 @@ contains `schnet`,`painn`,`filedschnet`,`so3net`
 <br>DeepMoleNet is a deep learning package for molecular properties prediction.
 - [AirNet](https://github.com/helloyesterday/AirNet)
 <br>A new GNN-based deep molecular model by MindSpore.
-- [TorchMD-Net](https://github.com/torchmd/torchmd-net)
+- [TorchMD-Net](https://github.com/torchmd/torchmd-net)  
 <br>TorchMD-NET provides graph neural networks and equivariant transformer neural networks potentials for learning molecular potentials.
 - [AQML](https://github.com/binghuang2018/aqml)
 <br>AQML is a mixed Python/Fortran/C++ package, intends to simulate quantum chemistry problems through the use of the fundamental building blocks of larger systems.
@@ -356,7 +356,7 @@ By combining recent deep learning methods with a large and diverse training set 
 molecular dynamics on new sequences not used during model parametrization.
 - [torchmd-protein-thermodynamics](https://github.com/torchmd/torchmd-protein-thermodynamics)  
 This repository contains code, data and tutarial for reproducing the paper "Machine Learning Coarse-Grained Potentials of Protein Thermodynamics". https://arxiv.org/abs/2212.07492
-- [torchmd-exp](https://github.com/compsciencelab/torchmd-exp) 
+- [torchmd-exp](https://github.com/compsciencelab/torchmd-exp)     
 This repository contains a method for training a neural network potential for coarse-grained proteins using unsupervised learning
 - [AICG](https://github.com/jasonzzj97/AICG)  
 Learning coarse-grained force fields for fibrogenesis modeling(https://doi.org/10.1016/j.cpc.2023.108964)
