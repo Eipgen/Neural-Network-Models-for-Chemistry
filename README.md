@@ -316,6 +316,8 @@ Extensible Surrogate Potential of Ab initio Learned and Optimized by Message-pas
 FeNNol is a library for building, training and running neural network potentials for molecular simulations. It is based on the JAX library and is designed to be fast and flexible.
 - [ByteFF](https://arxiv.org/abs/2408.12817)  
 In this study, we address this issue usinga modern data-driven approach, developing ByteFF, an Amber-compatible force fi eld for drug-like molecules. To create ByteFF, we generated an expansive and highly diverse molecular dataset at the B3LYP-D3(BJ)/DZVP level of theory. This dataset includes 2.4 million optimized molecular fragment geometries with analytical Hessian matrices, along with 3.2 million torsion profiles
+- [GB-FFs](https://github.com/GongCHEN-1995/GB-FFs-Model)  
+  Graph-Based Force Fields Model to parameterize Force Fields by Graph Attention Networks
 ## Semi-Empirical Quantum Mechanical Method
 #### with SQM feature
 - [OrbNet; OrbNet Denali](https://arxiv.org/abs/2107.00299)
