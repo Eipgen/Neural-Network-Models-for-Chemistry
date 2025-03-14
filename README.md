@@ -88,6 +88,10 @@ We have developed an approach for physics-informed training of flexible empirica
   Quantum Machine Learning by learning one-body reduced density matrices in the AO basis.
 - [Multi-task-electronic](https://github.com/htang113/Multi-task-electronic)  
   This package provides a python realization of the multi-task EGNN (equivariant graph neural network) for molecular electronic structure described in the paper "Multi-task learning for molecular electronic structure approaching coupled-cluster accuracy".
+- [aPBE0](https://github.com/dkhan42/aPBE0)  
+   We propose adaptive hybrid functionals, generating optimal exact exchange admixture ratios on the fly using data- efficient quantum  machine  learning  models  with  negligible  overhead. The  adaptive  Perdew-Burke-Ernzerhof  hybrid  density functional (aPBE0) improves energetics, electron densities, and HOMO- LUMO gaps in QM9, QM7b, and GMTKN55 benchmark datasets.
+
+   
 ### Quantum Monte Carlo
 - [DeePQMC](https://github.com/deepqmc/deepqmc)  
 DeepQMC implements variational quantum Monte Carlo for electrons in molecules, using deep neural networks written in PyTorch as trial wave functions.
