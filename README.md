@@ -253,7 +253,7 @@ AP-Net: An atomic-pairwise neural network for smooth and transferable interactio
 MACE provides fast and accurate machine learning interatomic potentials with higher order equivariant message passing.
 - [MACE-OFF23](https://github.com/ACEsuit/mace-off)  
  This repository contains the MACE-OFF23 pre-traained transferable organic force fields. 
-- [Unimol+](https://arxiv.org/pdf/2303.16982.pdf)
+- [Unimol+](https://arxiv.org/pdf/2303.16982.pdf)  
 Uni-Mol+ first generates a raw 3D molecule conformation from inexpensive methods such as RDKit. Then, the raw conformation is iteratively updated to its target DFT equilibrium conformation using neural networks, and the learned conformation will be used to predict the QC properties.
 - [ColfNet](https://proceedings.mlr.press/v162/du22e/du22e.pdf)  
 Inspired by differential geometry and physics, we introduce equivariant local complete frames to graph neural networks, such that tensor information at given orders can be projected onto the frames.
@@ -334,7 +334,7 @@ INFORMING GEOMETRIC DEEP LEARNING WITH ELECTRONIC INTERACTIONS TO ACCELERATE QUA
 <!-- markdown-link-check-disable-next-line -->
 - [OrbNet-Spin](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_214.pdf)   
 OrbNet-Spin incorporates a spin-polarized treatment into the underlying semiempirical quantum mechanics orbital featurization and adjusts the model architecture accordingly while maintaining the geometrical constraints.
-- [EHM-ML](https://github.com/aiqm/EHM-ML) 
+- [EHM-ML](https://github.com/aiqm/EHM-ML)     
 Machine Learned Hückel Theory: Interfacing Physics and Deep Neural Networks. The Hückel Hamiltonian is an incredibly simple tight-binding model known for its ability to capture qualitative physics phenomena arising from electron interactions in molecules and materials.
 - [DFTBML](https://github.com/djyaron/DFTBML)  
 DFTBML provides a systematic way to parameterize the Density Functional-based Tight Binding (DFTB) semiempirical quantum chemical method for different chemical systems by learning the underlying Hamiltonian parameters rather than fitting the potential energy surface directly.
