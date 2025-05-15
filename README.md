@@ -310,8 +310,9 @@ Transformer Interatomic Potential (TrIP): a chemically sound potential based on 
 - [e3x](https://github.com/google-research/e3x)  
 E3x is a JAX library for constructing efficient E(3)-equivariant deep learning architectures built on top of Flax. The goal is to provide common neural network building blocks for E(3)-equivariant architectures to make the development of models operating on three-dimensional data (point clouds, polygon meshes, etc.) easier.
 - [EScAIP](https://github.com/ASK-Berkeley/EScAIP)   
-  EScAIP: Efficiently Scaled Attention Interatomic Potential. 
-
+  EScAIP: Efficiently Scaled Attention Interatomic Potential.
+- [eSEN](https://github.com/facebookresearch/fairchem/tree/be0ea9cdf08ad00ce1d65ba69680129965294320/src/fairchem/core/models/esen)  
+  The resulting model, eSEN, provides state-of-the-art results on a range of physical property prediction tasks,
 ### Empirical force field
 
 - [grappa](https://github.com/graeter-group/grappa)  
