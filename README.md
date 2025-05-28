@@ -313,6 +313,8 @@ E3x is a JAX library for constructing efficient E(3)-equivariant deep learning a
   EScAIP: Efficiently Scaled Attention Interatomic Potential.
 - [eSEN](https://github.com/facebookresearch/fairchem/tree/be0ea9cdf08ad00ce1d65ba69680129965294320/src/fairchem/core/models/esen)  
   The resulting model, eSEN, provides state-of-the-art results on a range of physical property prediction tasks,
+- [UNA](https://huggingface.co/facebook/UMA)  
+  UMA: A Family of Universal Models for Atoms, a modified model of eSEN.
 ### Empirical force field
 
 - [grappa](https://github.com/graeter-group/grappa)  
