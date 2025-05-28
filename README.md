@@ -112,15 +112,24 @@ The many-body Green's function provides access to electronic properties beyond d
 ### Kernel Method
 - [wigner_kernel](https://github.com/lab-cosmo/wigner_kernels.git)  
   They propose a novel density-based method which involves computing “Wigner kernels”. 
-### Descriptor Domain
-- [DeePMD](https://github.com/deepmodeling/deepmd-kit)
-<br>A package designed to minimize the effort required to build deep learning based model of interatomic potential energy and force field and to perform molecular dynamics.
+###  local descriptor-based model
 - [Torch-ANI](https://github.com/aiqm/torchani)
 <br>TorchANI is a pytorch implementation of ANI model.
-- [mdgrad](https://github.com/torchmd/mdgrad/tree/pair)  
-Pytorch differentiable molecular dynamics
 - [PESPIP](https://github.com/PaulLHouston/PESPIP)  
 Mathematica programs for choosing the best basis of permutational invariant polynomials for fitting a potential energy surface
+- [RuNNer](https://www.uni-goettingen.de/de/software/616512.html)
+<br>A program package for constructing high-dimensional neural network potentials,4G-HDNNPs,3G-HDNNPs.
+- [sGDML](http://www.sgdml.org/)
+<br> Symmetric Gradient Domain Machine Learning
+###  invariant model
+- [DeePMD](https://github.com/deepmodeling/deepmd-kit)
+<br>A package designed to minimize the effort required to build deep learning based model of interatomic potential energy and force field and to perform molecular dynamics.
+###  equivariant model
+###  universal model
+
+### others
+- [mdgrad](https://github.com/torchmd/mdgrad/tree/pair)  
+Pytorch differentiable molecular dynamics
 <!-- markdown-link-check-disable-next-line -->
 - [Schrodinger-ANI](http://public-sani.onschrodinger.com/)  
 A neural network potential energy function for use in drug discovery, with chemical element support extended from 41% to 94% of druglike molecules based on ChEMBL.
@@ -128,14 +137,11 @@ A neural network potential energy function for use in drug discovery, with chemi
 <br>The Neural Force Field (NFF) code is an API based on SchNet, DimeNet, PaiNN and DANN. It provides an interface to train and evaluate neural networks for force fields. It can also be used as a property predictor that uses both 3D geometries and 2D graph information.
 - [NNPOps](https://github.com/openmm/NNPOps)
 <br>The goal of this project is to promote the use of neural network potentials (NNPs) by providing highly optimized, open-source implementations of bottleneck operations that appear in popular potentials.
-- [RuNNer](https://www.uni-goettingen.de/de/software/616512.html)
-<br>A program package for constructing high-dimensional neural network potentials,4G-HDNNPs,3G-HDNNPs.
 - [aenet](https://github.com/atomisticnet/aenet)
 <br>The Atomic Energy NETwork (ænet) package is a collection of tools for the construction and application of atomic interaction potentials based on artificial neural networks.
-- [sGDML](http://www.sgdml.org/)
-<br> Symmetric Gradient Domain Machine Learning
 - [GAP](https://github.com/libAtoms/GAP)
 <br>This package is part of QUantum mechanics and Interatomic Potentials
+
 - [QUIP](https://github.com/libAtoms/QUIP)
 <br>The QUIP package is a collection of software tools to carry out molecular dynamics simulations. It implements a variety of interatomic potentials and tight binding quantum mechanics, and is also able to call external packages, and serve as plugins to other software such as LAMMPS, CP2K and also the python framework ASE.
 - [NNP-MM](https://github.com/RowleyGroup/NNP-MM)
