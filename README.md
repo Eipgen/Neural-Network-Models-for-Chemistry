@@ -363,6 +363,8 @@ PYSEQM is a Semi-Empirical Quantum Mechanics package implemented in PyTorch.
 MOPAC-ML implements the PM6-ML method, a semiempirical quantum-mechanical computational method that augments PM6 with a machine learning (ML) correction. It acts as a wrapper calling a modified version of MOPAC, to which it provides the ML correction.
 - [XpaiNN@xTB](https://github.com/X1X1010/XequiNet)  
 A model can deal with optimization, and frequency prediction
+- [hotpp](https://gitlab.com/bigd4/hotpp)  
+  HotPP is an open-source package designed for constructing message passing network interatomic potentials. It facilitates the utilization of arbitrary order Cartesian tensors as messages while maintaining equivalence maintenance
 
 ## Coarse-Grained Method
 
