@@ -364,7 +364,9 @@ MOPAC-ML implements the PM6-ML method, a semiempirical quantum-mechanical comput
 - [XpaiNN@xTB](https://github.com/X1X1010/XequiNet)  
 A model can deal with optimization, and frequency prediction
 - [hotpp](https://gitlab.com/bigd4/hotpp)  
-  HotPP is an open-source package designed for constructing message passing network interatomic potentials. It facilitates the utilization of arbitrary order Cartesian tensors as messages while maintaining equivalence maintenance
+HotPP is an open-source package designed for constructing message passing network interatomic potentials. It facilitates the utilization of arbitrary order Cartesian tensors as messages while maintaining equivalence maintenance
+- [LiTEN, LiTEN-FF](https://arxiv.org/pdf/2507.00884)  
+LiTEN, a novel equivariant neural network with Tensorized Quadrangle Attention (TQA). TQA efficiently models three- and four-body interactions with linear complexity by reparameterizing high-order tensor features via vector operations,  avoiding costly spherical harmonics. 
 
 ## Coarse-Grained Method
 
