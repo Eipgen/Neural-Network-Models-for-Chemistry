@@ -426,6 +426,7 @@ FLARE is an open-source Python package for creating fast and accurate interatomi
 - [PFP](https://matlantis.com/)
 <br>Here we report a development of universal NNP called PreFerred Potential (PFP), which is able to handle any combination of 45 elements. Particular emphasis is placed on the datasets, which include a diverse set of virtual structures used to attain the universality.
 
+<!-- markdown-link-check-disable-next-line -->
 - [TeaNet](https://codeocean.com/capsule/4358608/tree)
 <br>universal neural network interatomic potential inspired by iterative electronic relaxations.
 
@@ -463,9 +464,9 @@ Graph Inference on Molecular Topology. A package for modelling, learning, and in
 - [OrbNet; OrbNet Denali](https://arxiv.org/abs/2107.00299)
 <br>OrbNet Denali: A machine learning potential for biological and organic chemistry with semi-empirical cost and DFT accuracy.
 <!-- markdown-link-check-disable-next-line -->
-
-- [ OrbNet-Equi](https://doi.org/10.1073/pnas.2205221119)  
-INFORMING GEOMETRIC DEEP LEARNING WITH ELECTRONIC INTERACTIONS TO ACCELERATE QUANTUM CHEMISTRY
+<!-- markdown-link-check-disable-next-line -->
+- [OrbNet-Equi](https://doi.org/10.1073/pnas.2205221119)
+<br>INFORMING GEOMETRIC DEEP LEARNING WITH ELECTRONIC INTERACTIONS TO ACCELERATE QUANTUM CHEMISTRY
 
 <!-- markdown-link-check-disable-next-line -->
 - [OrbNet-Spin,OrbitAll](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_214.pdf)   
@@ -544,8 +545,8 @@ mlcolvar is a Python library aimed to help design data-driven collective-variabl
 
 - [DeeP-HP](https://github.com/TinkerTools/tinker-hp/blob/master/GPU/Deep-HP.md)
 <br> Scalable hybrid deep neural networks/polarizable potentials biomolecular simulations including long-range effects
-<!-- markdown-link-check-disable-next-line -->
 
+<!-- markdown-link-check-disable-next-line -->
 - [PairF-Net](https://onlinelibrary.wiley.com/doi/10.1002/jcc.27313)  
  Here, we further develop the PairF-Net model to intrinsically incorporate energy conservation and couple the model to a molecular mechanical (MM) environment within the OpenMM package
 
