@@ -323,6 +323,8 @@ E3x is a JAX library for constructing efficient E(3)-equivariant deep learning a
   The resulting model, eSEN, provides state-of-the-art results on a range of physical property prediction tasks,
 - [UNA](https://huggingface.co/facebook/UMA)  
   UMA: A Family of Universal Models for Atoms, a modified model of eSEN.
+- [egret](https://github.com/rowansci/egret-public)  
+  This repository contains the Egret family of neural network potentials, developed by Rowan using the MACE architecture. 
 ### Empirical force field
 
 - [grappa](https://github.com/graeter-group/grappa)  
