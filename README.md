@@ -14,7 +14,6 @@ A collection of Neural Network Models for chemistry
 - [Coarse-Grained Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Coarse-Grained-Method)
 - [Enhanced Sampling Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Enhanced-Sampling-Method)
 - [QM/MM Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#QMMM-Model)
-- [Charge Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Charge-Model)
 
 ## Quantum Chemistry Method
 
