@@ -29,75 +29,104 @@ Machine Learning for Molecular Orbital Theory, they offer analytic gradient.
 
 - [DM21](https://github.com/deepmind/deepmind-research/tree/master/density_functional_approximation_dm21)  
 Pushing the Frontiers of Density Functionals by Solving the Fractional Electron Problem.
+
 - [NN-GGA, NN-NRA, NN-meta-GGA, NN-LSDA](https://github.com/ml-electron-project/NNfunctional)  
 Completing density functional theory by machine-learning hidden messages from molecules.
+
 - [FemiNet](https://github.com/deepmind/ferminet)  
 FermiNet is a neural network for learning highly accurate ground state wavefunctions of atoms and molecules using a variational Monte Carlo approach.
+
 - [PauliNet](https://www.nature.com/articles/s41557-020-0544-y#Bib1)  
 PauliNet builds upon HF or CASSCF orbitals as a physically meaningful baseline and takes a neural network approach to the SJB wavefunction in order tocorrect this baseline towards a high-accuracy solution.
+
 - [DeePErwin](https://github.com/mdsunivie/deeperwin)  
 DeepErwin is python package that implements and optimizes wave function models for numerical solutions to the multi-electron Schrödinger equation.
+
 - [Jax-DFT](https://github.com/google-research/google-research/tree/master/jax_dft)  
 JAX-DFT implements one-dimensional density functional theory (DFT) in JAX. It uses powerful JAX primitives to enable JIT compilation, automatical differentiation, and high-performance computation on GPUs.
 - [sns-mp2](https://github.com/DEShawResearch/sns-mp2)  
 Improving the accuracy of Moller-Plesset perturbation theory with neural networks
+
 - [DeepH-pack](https://github.com/mzjb/DeepH-pack)  
-Deep neural networks for density functional theory Hamiltonian.
+<br>Deep neural networks for density functional theory Hamiltonian.
+
 -[DeepH-E3](https://github.com/Xiaoxun-Gong/DeepH-E3)  
-General framework for E(3)-equivariant neural network representation of density functional theory Hamiltonian
+<br>General framework for E(3)-equivariant neural network representation of density functional theory Hamiltonian
+
 - [kdft](https://gitlab.com/jmargraf/kdf)  
 The Kernel Density Functional (KDF) code allows generating ML-based DFT functionals.
+
 - [ML-DFT](https://github.com/MihailBogojeski/ml-dft)  
 ML-DFT: Machine learning for density functional approximations This repository contains the implementation for the kernel ridge regression based density functional approximation method described in the paper "Quantum chemical accuracy from density functional approximations via machine learning".
+
 - [D4FT](https://github.com/sail-sg/d4ft)  
 this work proposed a deep-learning approach to KS-DFT. First, in contrast to the conventional SCF loop, directly minimizing the total energy by reparameterizing the orthogonal constraint as a feed-forward computation. They prove that such an approach has the same expressivity as the SCF method yet reduces the computational complexity from O(N^4) to O(N^3)
+
 - [SchOrb](https://github.com/atomistic-machine-learning/SchNOrb)  
 Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions
+
 <!-- markdown-link-check-disable-next-line -->
 - [CiderPress](https://github.com/mir-group/CiderPress)  
 Tools for training and evaluating CIDER functionals for use in Density Functional Theory calculations.
+
 <!-- markdown-link-check-disable-next-line -->
 - [ML-RPA](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00848)  
 This work demonstrates how machine learning can extend the applicability of the RPA to larger system sizes, time scales, and chemical spaces.
+
 <!-- markdown-link-check-disable-next-line -->
 - [ΔOF-MLFF](https://pubs.aip.org/aip/jcp/article/159/24/244106/2931521/Kohn-Sham-accuracy-from-orbital-free-density)  
 a Δ-machine learning model for obtaining Kohn–Sham accuracy from orbital-free density functional theory (DFT) calculations
+
 <!-- markdown-link-check-disable-next-line -->
 - [PairNet](https://doi.org/10.26434/chemrxiv-2023-n1skn)   
 A molecular orbital based machine learning model for predicting accurate CCSD(T) correlation energies. The model, named as PairNet, shows excellent transferability on several public data sets using features inspired by pair natural orbitals(PNOs).
 
 - [SPAHM(a,b)](https://github.com/lcmd-epfl/SPAHM-RHO)  
 SPAHM(a,b): encoding the density information from guess Hamiltonian in quantum machine learning representations
+
 - [GradDFT](https://github.com/XanaduAI/GradDFT)  
 GradDFT is a JAX-based library enabling the differentiable design and experimentation of exchange-correlation functionals using machine learning techniques.
+
 - [lapnet](https://github.com/bytedance/LapNet)  
 A JAX implementation of the algorithm and calculations described in Forward Laplacian: A New Computational Framework for Neural Network-based Variational Monte Carlo.
+
 - [M-OFDFT](https://zenodo.org/records/10616893)  
 M-OFDFT is a deep-learning implementation of orbital-free density functional theory that achieves DFT-level accuracy on molecular systems but with lower cost complexity, and can extrapolate to much larger molecules than those seen during training
+
 - [ACE-Kohn-Sham DM](https://arxiv.org/pdf/2503.08400)
 <br>we present a parameterized representation for learning the mapping from a molecular configuration to its corresponding density matrix using the Atomic Cluster Expansion (ACE) framework, which preserves the physical symmetries of the mapping, including isometric equivariance and Grassmannianity.
 
 <!-- markdown-link-check-disable-next-line -->
 - [ANN for Schrodinger](https://doi.org/10.26434/chemrxiv-2024-2qw5x)  
   Artificial neural networks (NN) are universal function approximators and have shown great ability in computing the ground state energy of the electronic Schrödinger equation, yet NN has not established itself as a practical and accurate approach to solving the vibrational Schrödinger equation for realistic polyatomic molecules to obtain vibrational energies and wave functions for the excited states
+
 - [equivariant_electron_density](https://github.com/JoshRackers/equivariant_electron_density)  
   Generate and predict molecular electron densities with Euclidean Neural Networks
+
 - [DeePDFT](https://github.com/peterbjorgensen/DeepDFT)  
 This is the official Implementation of the DeepDFT model for charge density prediction.
+
 - [DFA_recommeder](https://github.com/hjkgrp/dfa_recommender)  
   System-specific density functional recommender
+
 - [EG-XC](https://arxiv.org/pdf/2410.07972v1)  
 The accuracy of density functional theory hinges on the approximation of nonlocal contributions to the exchange-correlation (XC) functional. To date, machine-learned and human-designed approximations suffer from insufficient accuracy, limited scalability, or dependence on costly reference data. To address these issues, we introduce Equivariant Graph Exchange Correlation (EG-XC), a novel non-local XC functional based on equivariant graph neural network
+
 - [scdp](https://github.com/kyonofx/scdp)  
 Machine learning methods are promising in significantly accelerating charge density prediction, yet existing approaches either lack accuracy or scalability. They  propose a recipe that can achieve both. In particular, they identify three key ingredients: (1) representing the charge density with atomic and virtual orbitals (spherical fields centered at atom/virtual coordinates); (2) using expressive and learnable orbital basis sets (basis function for the spherical fields); and (3) using high-capacity equivariant neural network architecture
+
 - [physics-informed-DFT](https://github.com/TheorChemGroup/physics-informed-DFT)  
 We have developed an approach for physics-informed training of flexible empirical density functionals. In this approach, the “physics knowledge” is transferred from PBE, or any other exact-constraints-based functional, using local exchange−correlation energy density regularization, i.e., by adding its local energies into the training set
+
 - [SchrodingerNet](https://github.com/zhangylch/SchrodingerNet)   
  SchrödingerNet offers a novel approach to solving the full electronic-nuclear Schrödinger equation (SE) by defining a custom loss function designed to equalize local energies throughout the system.
+
 - [qmlearn](https://gitlab.com/pavanello-research-group/qmlearn)  
   Quantum Machine Learning by learning one-body reduced density matrices in the AO basis.
+
 - [Multi-task-electronic](https://github.com/htang113/Multi-task-electronic)  
   This package provides a python realization of the multi-task EGNN (equivariant graph neural network) for molecular electronic structure described in the paper "Multi-task learning for molecular electronic structure approaching coupled-cluster accuracy".
+
 - [aPBE0](https://github.com/dkhan42/aPBE0)  
    We propose adaptive hybrid functionals, generating optimal exact exchange admixture ratios on the fly using data- efficient quantum  machine  learning  models  with  negligible  overhead. The  adaptive  Perdew-Burke-Ernzerhof  hybrid  density functional (aPBE0) improves energetics, electron densities, and HOMO- LUMO gaps in QM9, QM7b, and GMTKN55 benchmark datasets.
 
