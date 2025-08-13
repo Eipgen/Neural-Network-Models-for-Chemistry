@@ -50,7 +50,7 @@ Improving the accuracy of Moller-Plesset perturbation theory with neural network
 - [DeepH-pack](https://github.com/mzjb/DeepH-pack)  
 <br>Deep neural networks for density functional theory Hamiltonian.
 
--[DeepH-E3](https://github.com/Xiaoxun-Gong/DeepH-E3)  
+- [DeepH-E3](https://github.com/Xiaoxun-Gong/DeepH-E3)  
 <br>General framework for E(3)-equivariant neural network representation of density functional theory Hamiltonian
 
 - [kdft](https://gitlab.com/jmargraf/kdf)  
