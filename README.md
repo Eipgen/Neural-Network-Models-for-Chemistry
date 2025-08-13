@@ -492,7 +492,7 @@ Graph Inference on Molecular Topology. A package for modelling, learning, and in
 
 - [OrbNet; OrbNet Denali](https://arxiv.org/abs/2107.00299)
 <br>OrbNet Denali: A machine learning potential for biological and organic chemistry with semi-empirical cost and DFT accuracy.
-<!-- markdown-link-check-disable-next-line -->
+
 <!-- markdown-link-check-disable-next-line -->
 - [OrbNet-Equi](https://doi.org/10.1073/pnas.2205221119)
 <br>INFORMING GEOMETRIC DEEP LEARNING WITH ELECTRONIC INTERACTIONS TO ACCELERATE QUANTUM CHEMISTRY
