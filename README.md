@@ -136,6 +136,9 @@ We have developed an approach for physics-informed training of flexible empirica
 - [DeePQMC](https://github.com/deepqmc/deepqmc)  
 DeepQMC implements variational quantum Monte Carlo for electrons in molecules, using deep neural networks written in PyTorch as trial wave functions.
 
+- [oneqmc](https://github.com/microsoft/oneqmc)  
+This package provides an implementation of the Orbformer wave function foundation model.
+
 
 ### Green Function
 - [DeepGreen](https://arxiv.org/abs/2312.14680)  
