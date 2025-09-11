@@ -8,7 +8,7 @@ A collection of Neural Network Models for chemistry
    - Not based on Graph Models
    - Graph Domain Models
    - Transformer Domain Models
-   - Universial models
+   - Universal models
    - Empirical force field
 - [Semi-Empirical Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Semi-Empirical-Quantum-Mechanical-Method)
 - [Coarse-Grained Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Coarse-Grained-Method)
@@ -353,7 +353,7 @@ E3x is a JAX library for constructing efficient E(3)-equivariant deep learning a
   EScAIP: Efficiently Scaled Attention Interatomic Potential.
 
 
-### Universial model
+### Universal model
 
 - [egret](https://github.com/rowansci/egret-public)  
   This repository contains the Egret family of neural network potentials, developed by Rowan using the MACE architecture.
@@ -371,7 +371,10 @@ This repository contains reference AIMNet implementation along with some example
 A general-purpose neural netrork potential for organic and element-organic molecules.
 
 - [MACE-OFF23](https://github.com/ACEsuit/mace-off)  
- This repository contains the MACE-OFF23 pre-traained transferable organic force fields. 
+ This repository contains the MACE-OFF23 pre-traained transferable organic force fields.
+
+- [Orb-moddels](https://github.com/orbital-materials/orb-models)  
+Trained on the Open Molecules 2025 (OMol25) dataset—over 100M high-accuracy DFT calculations (ωB97M-V/def2-TZVPD) on diverse molecular systems including metal complexes, biomolecules, and electrolytes.
 
 ### Empirical force field
 
