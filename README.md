@@ -402,7 +402,7 @@ In this study, we address this issue usinga modern data-driven approach, develop
 - [bamboo](https://github.com/bytedance/bamboo) 
 Welcome to the repository of BAMBOO! This repository hosts the source code for creating a machine learning-based force field (MLFF) for molecular dynamics (MD) simulations of lithium battery electrolytes. Whether you're interested in simulating lithium battery electrolytes or other types of liquids, BAMBOO provides a robust and versatile solution.
 
-- [ResFF](https://doi.org/10.26434/chemrxiv-2025-003lg-v2)
+- [ResFF](https://github.com/Ameki0/ResFF)    
 <br>We introduce ResFF, a hybrid machine learning force field that employs deep residual learning to integrate explicit physics-based bonded terms with residual corrections from a lightweight equivariant neural network. Through a three-stage joint optimization, ResFF decomposes molecular energy into dominant bonded contributions and complex noncovalent deviations.
 
 ### Tools and potentials
