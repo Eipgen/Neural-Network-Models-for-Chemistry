@@ -3,7 +3,7 @@
 
 A collection of Neural Network Models for chemistry
 - [Quantum Chemistry Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#quantum-chemistry-method)
-- [Force Field Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#force-field-method)
+- [Force Field Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry#force-field-method)
    - Kernel Methods
    - Not based on Graph Models
    - Graph Domain Models
