@@ -10,6 +10,7 @@ A collection of Neural Network Models for chemistry
    - Transformer Domain Models
    - Universal models
    - Empirical force field
+
 - [Semi-Empirical Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Semi-Empirical-Quantum-Mechanical-Method)
 - [Coarse-Grained Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Coarse-Grained-Method)
 - [Enhanced Sampling Method](https://github.com/Eipgen/Neural-Network-Models-for-Chemistry/blob/main/README.md#Enhanced-Sampling-Method)
@@ -352,6 +353,9 @@ E3x is a JAX library for constructing efficient E(3)-equivariant deep learning a
 - [EScAIP](https://github.com/ASK-Berkeley/EScAIP)   
   EScAIP: Efficiently Scaled Attention Interatomic Potential.
 
+- [graph-free-transformer](https://github.com/ASK-Berkeley/graph-free-transformer)   
+Our findings suggest that Transformers can learn many of the graph-based inductive biases typically built into current ML models for chemistry—while doing so more flexibly.
+
 
 ### Universal model
 
@@ -486,7 +490,6 @@ A neural network potential energy function for use in drug discovery, with chemi
 
 - [gimlet](https://github.com/choderalab/gimlet)  
 Graph Inference on Molecular Topology. A package for modelling, learning, and inference on molecular topological space written in Python and TensorFlow.
-
 
 
 
