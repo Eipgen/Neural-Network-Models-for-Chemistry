@@ -130,7 +130,7 @@ We have developed an approach for physics-informed training of flexible empirica
 - [aPBE0](https://github.com/dkhan42/aPBE0)  
    We propose adaptive hybrid functionals, generating optimal exact exchange admixture ratios on the fly using data- efficient quantum  machine  learning  models  with  negligible  overhead. The  adaptive  Perdew-Burke-Ernzerhof  hybrid  density functional (aPBE0) improves energetics, electron densities, and HOMO- LUMO gaps in QM9, QM7b, and GMTKN55 benchmark datasets.
 
-- [Skala](https://arxiv.org/abs/2506.14665v1)  
+- [Skala](https://github.com/microsoft/skala)  
   In this work, we present Skala, a modern deep learning-based XC functional that bypasses expensive hand-designed features by learning representations directly from data. Skala achieves chemical accuracy for atomization energies of small molecules while retaining the computational efficiency typical of semi-local DFT. 
    
 ### Quantum Monte Carlo
