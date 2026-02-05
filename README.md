@@ -515,7 +515,7 @@ Machine Learned Hückel Theory: Interfacing Physics and Deep Neural Networks. Th
 - [DFTBML](https://github.com/djyaron/DFTBML)  
 DFTBML provides a systematic way to parameterize the Density Functional-based Tight Binding (DFTB) semiempirical quantum chemical method for different chemical systems by learning the underlying Hamiltonian parameters rather than fitting the potential energy surface directly.
 
-- [NN-xTV](https://doi.org/10.26434/chemrxiv-2025-chlcc-v3)  
+- [NN-xTB](https://doi.org/10.26434/chemrxiv-2025-chlcc-v3)  
   Fast, general, and interpretable quantum accuracy remains a challenge. To address it, we introduce Neural Network Extended Tight-Binding (NN-xTB), a Hamiltonian-preserving scheme that augments the GFN2-xTB operator with small, bounded, environment-dependent shifts to a compact set of physically interpretable parameters predicted by neural network.
 
 ### without SQM fearure
