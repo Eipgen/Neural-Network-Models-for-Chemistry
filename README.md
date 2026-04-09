@@ -377,7 +377,7 @@ A general-purpose neural netrork potential for organic and element-organic molec
 - [MACE-OFF23](https://github.com/ACEsuit/mace-off)  
  This repository contains the MACE-OFF23 pre-traained transferable organic force fields.
 
-- [Orb-moddels](https://github.com/orbital-materials/orb-models)  
+- [Orb-V3](https://github.com/orbital-materials/orb-models)  
 Trained on the Open Molecules 2025 (OMol25) dataset—over 100M high-accuracy DFT calculations (ωB97M-V/def2-TZVPD) on diverse molecular systems including metal complexes, biomolecules, and electrolytes.
 
 ### Empirical force field
